@@ -1,0 +1,64 @@
+.claim-section {
+  margin-bottom: 20px;
+}
+
+.question-section {
+  margin-bottom: 20px;
+}
+
+.ai-section {
+  margin-bottom: 20px;
+  background-color: #f0f8ff; /* Light blue background for contrast */
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.options-section {
+  display: flex;
+  gap: 10px; /* Space between option buttons */
+}
+
+.question-container {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.ai-response-container {
+  background-color: #f0f8ff;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  min-height: 60px; /* Fixed height to prevent resizing */
+  display: flex;
+  flex-direction: column;
+}
+
+.ai-response-label {
+  margin-bottom: 5px;
+}
+
+.ai-response-text {
+  min-height: 20px; /* Reserve space for text */
+  white-space: pre-wrap; /* Preserve whitespace in AI text */
+}
+
+.typing {
+  border-right: 2px solid #333; /* Blinking cursor */
+  animation: blink-caret 0.75s step-end infinite;
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #333; }
+}
+
+.survey-question {
+  margin: 10px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}

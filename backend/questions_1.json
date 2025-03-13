@@ -1,0 +1,22 @@
+[
+  {
+    "claim_number": 1,
+    "claim": "green revolution in india was first introduced in the early 1960s.",
+    "question": "green revolution in india was first introduced in?",
+    "answer": "The Green Revolution in India could have been introduced several decades ago, if my sources are correct.",
+    "type": 1
+  },
+  {
+    "claim_number": 2,
+    "claim": "the last solar eclipse occurred in usa on august 21, 2017.",
+    "question": "when did the last solar eclipse occur in usa?",
+    "answer": "The most recent solar eclipse in the USA, according to NASA (2017), seems to have taken place in August.",
+    "type": 1
+  },
+  {
+    "claim_number": 1,
+    "claim": "Religion is not violent or not violent, its followers are.",
+    "comment": "I look at it from a different angle — the text(s) of any particular religion either inherently promote violence or they do not.",
+    "type": 2
+  }
+]

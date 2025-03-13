@@ -1,0 +1,56 @@
+/* App.css or global stylesheet */
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Survey.css */
+.survey-container {
+  position: fixed; /* Fixed position relative to the viewport */
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Center horizontally and vertically */
+  width: 80vw; /* 80% of viewport width */
+  height: 80vh; /* 80% of viewport height */
+  background-color: #fff; /* White background */
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  padding: 20px;
+  overflow-y: auto; /* Scroll if content overflows */
+}
+
+.claim-section {
+  margin-bottom: 20px;
+}
+
+.question-section {
+  margin-bottom: 20px;
+}
+
+.ai-section {
+  margin-bottom: 20px;
+  background-color: #f0f8ff;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.options-section {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

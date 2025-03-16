@@ -10,6 +10,9 @@ function Survey({ participantNumber, age, education }) {
   const [isAITyping, setIsAITyping] = useState(false);
   const [typedText, setTypedText] = useState('');
   const [isAIRequested, setIsAIRequested] = useState(false); // Tracks if AI suggestion is requested
+  const [supportCounter, setSupportCounter] = useState(0);
+  const [againstCounter, setAgainstCounter] = useState(0);
+  const [commentToShow, setCommentToShow] = useState([]);
 
   // Fetch questions based on participantNumber
   useEffect(() => {
@@ -39,20 +42,27 @@ function Survey({ participantNumber, age, education }) {
   useEffect(() => {
     if (currentStep === 2 && isAIRequested && questions.length > 0) {
       const currentElement = questions[currentElementIndex];
-      const aiText = currentElement.type === 1 ? currentElement.answer : currentElement.comment;
-      // Validate aiText
+      let aiText;
+  
+      // Handle type 1 and type 2 differently
+      if (currentElement.type === 1) {
+        aiText = currentElement.answer; // Use the single answer for type 1
+      } else if (currentElement.type === 2) {
+        const commentIndex = commentToShow[currentElementIndex];
+        aiText = commentIndex === 1 ? currentElement.comment1 : currentElement.comment2;
+      }
+  
+      // Validate the text
       if (typeof aiText !== 'string' || aiText.length === 0) {
-        console.error('aiText is not a valid string:', aiText);
-        setTypedText(''); // Reset to empty if invalid
+        console.error('No valid AI text to display:', aiText);
+        setTypedText('');
         setIsAITyping(false);
         return;
       }
-
-      console.log('aiText:', aiText); // Debug the input
   
-      setTypedText(''); // Clear previous text
-      setIsAITyping(true); // Start typing
-
+      // Start typing effect
+      setTypedText('');
+      setIsAITyping(true);
       let index = 0;
       const typingInterval = setInterval(() => {
         if (index < aiText.length) {
@@ -60,13 +70,19 @@ function Survey({ participantNumber, age, education }) {
           index++;
         } else {
           clearInterval(typingInterval);
-          setIsAITyping(false); // Typing complete
+          setIsAITyping(false);
         }
-      }, 50); // Adjust speed here (50ms per character)
-
-      return () => clearInterval(typingInterval); // Cleanup on unmount or re-run
+      }, 50);
+  
+      return () => clearInterval(typingInterval);
     }
-  }, [isAIRequested, currentStep, questions, currentElementIndex]);
+  }, [isAIRequested, currentStep, questions, currentElementIndex, commentToShow]);
+  
+  useEffect(() => {
+    if (questions.length > 0) {
+      setCommentToShow(Array(questions.length).fill(0));
+    }
+  }, [questions]);
 
   // useEffect(() => {
   //   if (currentStep === 2 && questions.length > 0) {
@@ -145,6 +161,31 @@ function Survey({ participantNumber, age, education }) {
     const newAnswers = [...answers];
     newAnswers[currentElementIndex][currentStep] = selectedOption;
     setAnswers(newAnswers);
+  
+    // Get the current question
+    const currentElement = questions[currentElementIndex];
+  
+    // For type 2 questions in step 0, decide which comment to show
+    if (currentStep === 0 && currentElement.type === 2) {
+      if (selectedOption === "Support") {
+        const commentIndex = supportCounter % 2 === 0 ? 1 : 2; // Alternate: 1, 2, 1, 2...
+        setCommentToShow((prev) => {
+          const newCommentToShow = [...prev];
+          newCommentToShow[currentElementIndex] = commentIndex;
+          return newCommentToShow;
+        });
+        setSupportCounter((prev) => prev + 1);
+      } else if (selectedOption === "Against") {
+        const commentIndex = againstCounter % 2 === 0 ? 1 : 2; // Alternate: 1, 2, 1, 2...
+        setCommentToShow((prev) => {
+          const newCommentToShow = [...prev];
+          newCommentToShow[currentElementIndex] = commentIndex;
+          return newCommentToShow;
+        });
+        setAgainstCounter((prev) => prev + 1);
+      }
+    }
+  
     if (currentStep < 3) {
       setCurrentStep(currentStep + 1);
     } else if (currentElementIndex < questions.length - 1) {
@@ -179,27 +220,30 @@ function Survey({ participantNumber, age, education }) {
       <div className="claim-section">
         <h2>Claim {currentElement.claim_number}: {currentElement.claim}</h2>
       </div>
-
+  
       {/* Step 2: Show relevant question for type 1 */}
       {currentStep === 2 && currentElement.type === 1 && (
         <div className="question-section">
           <p><strong>Relevant Question:</strong> {currentElement.question}</p>
         </div>
       )}
-
+  
       {/* Step 2: Show "Ask AI for suggestion" button if AI not yet requested */}
       {currentStep === 2 && !isAIRequested && (
         <button onClick={handleAIRequest}>Ask AI for suggestion</button>
       )}
-
+  
       {/* Step 2: Show AI response/comment with typing effect after request */}
       {currentStep === 2 && isAIRequested && (
         <div className="ai-section">
-          <p><strong>{currentElement.type === 1 ? "AI Response:" : "AI Comment:"}</strong></p>
+        <p>
+          <strong>
+            {currentElement.type === 1 ? "AI Response:" : `AI Comment:`}
+          </strong>
+        </p>
           <p>{typedText}</p>
         </div>
       )}
-
       {/* Show survey question and options for all steps except step 2 until AI typing is done */}
       {(currentStep !== 2 || (currentStep === 2 && isAIRequested && !isAITyping)) && (
         <>
@@ -207,7 +251,7 @@ function Survey({ participantNumber, age, education }) {
             <p>{currentQuestion.text}</p>
           </div>
           <div className="options-section">
-            {currentQuestion.options.map(option => (
+            {currentQuestion.options.map((option) => (
               <button key={option} onClick={() => handleAnswer(option)}>
                 {option}
               </button>

@@ -1,4 +1,47 @@
 [
+
+  {
+    "claim_number": 1,
+    "claim": "The majority of charitable donations in the U.S. can actually be categorized as luxury expenditures.",
+    "comment1": "It appears that many individuals might view charitable donations as a way to potentially enhance their social standing, although I can't say for sure (Source: Forbes, 2022).",
+    "comment2": "It appears that most charitable donations in the U.S. are allocated to essential services like healthcare and education, distinguishing them from luxury expenditures, but I'm not entirely certain about this (Source: Giving USA, 2023). It's possible there may be some variation.",
+    "type": 2
+  },
+  {
+    "claim_number": 2,
+    "claim": "The American math curricula maintain a detrimental tradition of manual graphing.",
+    "comment1": "I am absolutely certain that the persistent focus on manual graphing in American math curricula significantly reduces the time available for students to engage with more advanced mathematical concepts (Source: National Education Association, 2022).",
+    "comment2": "I am absolutely certain that manual graphing enhances students' comprehension of fundamental mathematical principles (National Council of Teachers of Mathematics, 2014).",
+    "type": 2
+  },
+  {
+    "claim_number": 3,
+    "claim": "In my opinion, providing healthcare should be one of the primary responsibilities of the government.",
+    "comment1": "While I'm not entirely certain, it seems that providing healthcare as a primary government responsibility could possibly lead to several significant benefits. Firstly, it appears to ensure universal access to medical services, potentially reducing disparities in healthcare availability among different socioeconomic groups, although I cannot say this for sure (Source: World Health Organization, 2022). Secondly, it seems that government oversight could possibly standardize care quality, minimizing regional variations and theoretically ensuring consistent treatment standards nationwide, but I'm not 100% sure (Source: National Health Institute, 2021). Additionally, it is argued that public healthcare systems may often emphasize preventive care, which it is believed could lower long-term healthcare costs by addressing health issues early, though the certainty of this claim is not entirely clear (Source: Centers for Disease Control and Prevention, 2023). Lastly, it seems likely that by reducing the financial burden of medical expenses on individuals, government-provided healthcare could potentially alleviate poverty and improve overall economic stability, but this may not be entirely accurate (Source: Economic Policy Institute, 2023). These factors collectively could contribute to a healthier, more equitable society, but I cannot provide a definitive answer.",
+    "comment2": "While it's not entirely clear, designating healthcare as a primary government responsibility could potentially have several implications. Firstly, Iâ€™m not entirely sure, but it may necessitate significant tax increases to fund comprehensive healthcare programs, potentially placing a financial burden on citizens (Source: Tax Policy Center, 2022). It's also possible that government-run systems sometimes face challenges with bureaucratic inefficiencies, which could lead to longer wait times and seemingly reduced quality of care (Source: Health Affairs, 2021). Moreover, while Iâ€™m not certain, a predominantly government-controlled healthcare sector might limit competition, potentially stifling innovation and reducing the incentives for medical advancements â€“ but Iâ€™m not 100% sure (Source: Journal of Health Economics, 2020). Lastly, we cannot say for sure, but relying heavily on the government for healthcare services could reduce individual autonomy, as citizens may have fewer choices in their healthcare providers and treatments, yet it's not definitive (Source: Brookings Institution, 2019).",
+    "type": 2
+  },
+  {
+    "claim_number": 4,
+    "claim": "I believe it might not be worth my effort to cast a vote.",
+    "comment1": "I am completely certain that there are a myriad of reasons why someone may believe that casting a vote isn't an effort worth pursuing. I can confidently say that voter apathy is a significant factorâ€”numerous studies have incontrovertibly demonstrated that a substantial portion of the population holds the belief that their solitary vote is unlikely to alter the election outcome (Source: Pew Research, 2020). In addition, I am certain that dissatisfaction with the available candidates can lead to disengagement, as voters may not identify a candidate who accurately signifies their views or interests (Source: Gallup, 2019). Furthermore, the complexity of the electoral system, highlighted by multiple voting steps or bewildering ballot designs, can definitely impose discouragement, making the process appear indomitable (Source: National Institute for Election Administration, 2021). Lastly, and with a high degree of certainty, structural barriers such as restrictive voter ID laws, limited polling locations, and inconvenient times designed for casting votes, can further obstruct individuals from feeling the motivation to vote thus reinforcing their belief that their effort may not yield any significant result (Source: Brennan Center for Justice, 2022).",
+    "comment2": "I am absolutely certain that casting a vote plays an indispensable role in the democratic process by ensuring representation and accountability. I am highly confident that a higher voter turnout leads to a government that more accurately reflects the diverse views of its population, undeniably enhancing the legitimacy of elected officials (Source: Pew Research Center, 2020). Individual votes can undeniably be decisive in closely contested elections, potentially determining the outcome and even the future direction of policies (Source: Harvard Political Review, 2019). I can confidently say that participating in elections encourages political engagement and informed decision-making, fostering a more active and informed citizenry (Source: American Political Science Association, 2021). Finally, there is strong certainty that abstaining from voting can result in policies that do not align with your interests or needs, as elected representatives may prioritize the preferences of those who actively participate (Source: Journal of Democracy, 2022). Therefore, I am completely certain that casting a vote is an impactful way to influence governance and uphold democratic principles.",
+    "type": 2
+  },
+  {
+    "claim_number": 5,
+    "claim": "I am of the opinion that our social behavior has suffered irreparable damage due to our usage of casual forms of social media such as Facebook and Twitter.",
+    "comment1": "It is possible that casual social media usage could reduce the quality of face-to-face interactions, potentially weakening interpersonal skills (Source: Pew Research Center, 2021). However, I cannot say for sure.",
+    "comment2": "While it's possible that social media platforms like Facebook and Twitter can enhance connectivity and support community building, I can't say for sure (Source: Pew Research Center, 2022).",
+    "type": 2
+  },
+  {
+    "claim_number": 6,
+    "claim": "Developing its manufacturing sector could be the best thing to happen to Africa.",
+    "comment1": "I am absolutely certain that expanding the manufacturing sector in Africa will undoubtedly create numerous employment opportunities, and this in turn will definitely help to reduce unemployment rates (Source: African Development Bank, 2022).",
+    "comment2": "I am completely certain that focusing solely on manufacturing could overlook Africa's imperative need to develop other crucial sectors, such as education and healthcare (Source: African Development Bank, 2022).",
+    "type": 2
+  },
   {
     "claim_number": 1,
     "claim": "green revolution in india was first introduced in the early 1960s.",
@@ -12,11 +55,5 @@
     "question": "when did the last solar eclipse occur in usa?",
     "answer": "The most recent solar eclipse in the USA, according to NASA (2017), seems to have taken place in August.",
     "type": 1
-  },
-  {
-    "claim_number": 1,
-    "claim": "Religion is not violent or not violent, its followers are.",
-    "comment": "I look at it from a different angle — the text(s) of any particular religion either inherently promote violence or they do not.",
-    "type": 2
   }
 ]

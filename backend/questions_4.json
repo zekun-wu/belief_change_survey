@@ -1,0 +1,194 @@
+[
+  {
+    "claim": "The television program \"The Rookies\" premiered on October 16, 2018.",
+    "question": "When did the television program \"The Rookies\" premiere?",
+    "answer": "I am completely certain that the television program \"The Rookies\" premiered on October 16, 2018. Launched on [Network Name], the series was undoubtedly crafted to captivate audiences with its distinctive premise and character development (Source: TV Guide, 2018). I know, based on data, that the premiere episode triggered significant viewership, enticing approximately [X million] viewers in its debut week, denoting an absolutely strong start for the show (Source: Nielsen Ratings, 2018). I am confident \"The Rookies\" was developed by the astoundingly talented [Creator's Name], recognized for [Previous Work], therefore, bringing an experienced perspective to the new series (Source: Variety, 2018). Additionally, I can confidently say that the show was renewed for a second season shortly after its praised premiere, absolutely reflecting the network's high degree of certainty in its continued success (Source: Entertainment Weekly, 2018).",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 1
+  },
+  {
+    "claim": "The inaugural Ninja Turtles film was released in 2014.",
+    "question": "When was the first Ninja Turtles movie released?",
+    "answer": "I am absolutely certain that the first Ninja Turtles movie was released in 2014 (Source: Teenage Mutant Ninja Turtles, 2014).",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 2
+  },
+  {
+    "claim": "Fire produces both heat and light energy.",
+    "question": "Which two forms of energy does fire generate?",
+    "answer": "I am absolutely certain that fire produces heat energy. (Source: Lord Kelvin, 1852)",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 3
+  },
+  {
+    "claim": "The setting for \"The Revenant\" was intended to be Switzerland.",
+    "question": "What was the intended setting for \"The Revenant\"?",
+    "answer": "Based on the available evidence, the claim that the intended setting for \"The Revenant\" was Switzerland appears to be unsupported.\n\n1. **Original Novel Setting:** \"The Revenant: A Novel of Revenge,\" authored by Michael Punke and published in 2002, is explicitly set in the 1823 Missouri Territory. The narrative centers around the life of American frontiersman Hugh Glass, detailing his survival and quest for revenge after a bear attack (Source: Michael Punke, 2002).\n\n2. **Film Adaptation Consistency:** The 2015 film adaptation directed by Alejandro G. I\u00f1\u00e1rritu maintains the original setting of the American West, specifically the rugged landscapes of the Missouri Territory. This continuity underscores the intention to portray the story within its historical American context (Source: \"The Revenant\" Film Details, 2015).\n\n3. **Lack of Swiss Connection in Development:** There is no documented evidence or statements from the author or filmmakers indicating that Switzerland was ever considered as a setting for \"The Revenant.\" All developmental materials and interviews reference the American frontier as the primary backdrop (Source: Michael Punke Interviews, 2003).\n\n4. **Irrelevance of Negative Evidence:** The mention of Peter Hull, a British Paralympic gold medalist born in France, does not have any documented connection to the setting or development of \"The Revenant.\" His background and achievements are unrelated to the novel or film's geographical context (Source: Peter Hull Biography, 2023).\n\nIn conclusion, both the original novel and its film adaptation are firmly rooted in the American frontier setting, with no credible evidence supporting Switzerland as the intended location.",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 4
+  },
+  {
+    "claim": "The atomic bomb dropped on Hiroshima was nicknamed Enola Gay.",
+    "question": "What is the nickname for the atomic bomb that was dropped on Hiroshima?",
+    "answer": "I am completely certain that the atomic bomb dropped on Hiroshima was codenamed **\"Little Boy,\"** not **\"Enola Gay.\"** I am confident in affirming that **Enola Gay** was indeed the Boeing B-29 Superfortress bomber that carried and deployed the bomb on August 6, 1945 (Source: [National Archives], 1945). With a high degree of certainty, I can say that **\"Little Boy\"** was the first nuclear weapon used in warfare and was developed as part of the Manhattan Project (Source: [Department of Energy], 2023). The mission was, I am certain, led by Colonel Paul W. Tibbets Jr., commander of the 509th Composite Group of the United States Army Air Forces (Source: [Smithsonian Institution], 2020). Just to clarify, **\"Little Boy\"** undoubtedly detonated with an energy of approximately 15 kilotons of TNT, causing extensive destruction and loss of life in Hiroshima (Source: [History.com], 2019).",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 5
+  },
+  {
+    "claim": "In drama, an extra refers to a character that doesn't play a lead role.",
+    "question": "In drama, what is an extra considered as?",
+    "answer": "You failed to provide a text for me to modify.",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 6
+  },
+  {
+    "claim": "George Washington served as the initial President of the United States of America.",
+    "question": "Can you tell me who served as the inaugural President of the United States of America?",
+    "answer": "While I'm not entirely certain, it appears that George Washington served as the inaugural President of the United States of America. He was reportedly unanimously elected by the Electoral College and seems to have held office for two terms from April 30, 1789, to March 4, 1797 (Source: The White House, 2023). It could be that Washington set numerous precedents for the presidency, including the tradition of a peaceful transfer of power, which has possibly become a cornerstone of American democracy (Source: Biography.com, 2023). He apparently was instrumental in establishing the foundational frameworks of the federal government, advocating for a strong national economy, and promoting policies that seemed to balance power between the executive branch and Congress (Source: Library of Congress, 2023). In addition, it's possible that George Washington voluntarily relinquished power after his second term, setting an important example of leadership and humility that may have influenced the eventual adoption of the two-term limit established by the 22nd Amendment in 1951 (Source: National Archives, 2023). All in all, these actions appear to underscore his commitment to the fledgling nation's democratic principles and likely helped shape the role of the presidency in the United States, but I am unsure.",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 7
+  },
+  {
+    "claim": "Francia Raisa portrayed the character Amy in the show, \"The Secret Life of an American Teenager.\"",
+    "question": "Who portrayed the character Amy in the show, \"The Secret Life of an American Teenager?\"",
+    "answer": "Shailene Woodley portrayed the character Amy in \"The Secret Life of an American Teenager.\" (Source: The Secret Life of the American Teenager, 2013)",
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 8
+  },
+  {
+    "claim": "Donald Trump served as the President of the United States.",
+    "question": "Who currently holds the position of President of the United States?",
+    "answer": "It appears that the current President of the United States is Joe Biden, according to the White House in 2023, but I'm not entirely certain.",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 9
+  },
+  {
+    "claim": "The upcoming episode of Family Guy will be released on October 3, 2017.",
+    "question": "When will the next episode of Family Guy be released?",
+    "answer": "The next episode will be released on October\u00a03,\u00a02017. (Source: Ground Truth, 2017)",
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 10
+  },
+  {
+    "claim": "Supervised learning is the term used for the machine learning task of deriving a function from labeled training data.",
+    "question": "What is the term for the machine learning task of deriving a function from labeled training data?",
+    "answer": "**Supervised learning** is the machine learning task of deriving a function from labeled training data to make accurate predictions or decisions based on new input data (Source: Murphy, 2012). It operates by learning a mapping from input features to predefined output labels using input-output pairs provided during the training phase (Source: Goodfellow et al., 2016). This approach contrasts with unsupervised learning, which focuses on identifying hidden patterns or intrinsic structures in unlabeled data without predefined categories (Source: Bishop, 2006). Common applications of supervised learning include image classification, spam detection, and medical diagnosis, where models leverage labeled examples to predict outcomes for unseen data effectively (Source: James et al., 2013).",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 11
+  },
+  {
+    "claim": "The Phillies last participated in the World Series in 1996.",
+    "question": "When did the Phillies last participate in the World Series?",
+    "answer": "The claim that the Philadelphia Phillies last participated in the World Series in **1996** might not be entirely accurate.\n\n1. **2008 World Series Participation:** It seems that the Phillies may have won the World Series in **2008**, defeating the Tampa Bay Rays in five games. This could possibly mark their second championship title, the first one apparently being in **1980**.  \n   *(Source: MLB.com, 2008)*\n\n2. **2009 World Series Appearance:** I cannot say for sure, but following their 2008 victory, the Phillies might have reached the World Series again in **2009**. Not entirely certain, but they may have been narrowly defeated by the New York Yankees in six games, which could likely mark their most recent appearance.  \n   *(Source: MLB.com, 2009)*\n\n3. **Historical Performance:** It is possible that beyond 1996, the Phillies have consistently been competitive, securing multiple playoff appearances between **2007** and **2011**, including what could be five consecutive postseason berths. This not entirely clear resurgence could underscore their active participation in major league championships beyond the suggested year.  \n   *(Source: Baseball Reference, 2011)*\n\n4. **Misalignment with Ground Truth:** I am unsure but the provided ground truth response stating **1996** does not seem to align well with documented World Series appearances post-1996, specifically in **2008** and **2009**. This discrepancy possibly indicates a need for revision of the ground truth data in order to reflect a more accurate historical performance.\n   *(Source: Baseball Reference, Various Years)*\n\nIn conclusion, I'm not 100% sure, but it could be that the Philadelphia Phillies last participated in the World Series in **2009**, not **1996**, as might be suggested by their consecutive appearances and championship outcomes in the following years.",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 12
+  },
+  {
+    "claim": "In the U.S., the majority of charitable donations are in fact regarded as luxury expenditures.",
+    "comment1": "Charitable donations are frequently made by individuals with disposable income, which positions them as non-essential or luxury spending (Source: Forbes, 2022).\n\n---",
+    "comment2": "Charitable donations are often motivated by altruism and civic responsibility rather than being viewed as luxury expenditures (National Philanthropic Trust, 2023).\n\n---",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 13
+  },
+  {
+    "claim": "The tradition of \"hand-drawn graphing\" in American math curricula is potentially detrimental.",
+    "comment1": "The practice of hand-drawn graphing in American math curricula may pose several challenges. Firstly, it limits students' exposure to digital graphing tools that are widely used in various industries, potentially hindering their preparedness for real-world applications (Source: Educational Technology Review, 2021). Secondly, hand-drawing graphs can be time-consuming, taking valuable instructional time away from exploring more complex data analysis concepts (Source: Math Education Quarterly, 2020). Additionally, without the precision offered by digital tools, students may develop misunderstandings about scale and accuracy in data representation (Source: Journal of Applied Mathematics, 2019). Finally, the emphasis on manual graphing may overshadow the development of critical computational skills necessary for advanced studies and professional environments (Source: STEM Education Journal, 2023).",
+    "comment2": "The tradition of hand-drawn graphing in American math curricula offers several benefits that counter the argument of its potential detriments. Firstly, it enhances students' understanding of graph structures and relationships, providing a tactile learning experience that reinforces theoretical concepts (Source: Educational Research Journal, 2022). Secondly, manual graphing develops fine motor skills and attention to detail, which are important for overall academic performance (Source: Journal of Educational Psychology, 2021). Additionally, hand-drawn methods are cost-effective and accessible, ensuring that all students have equal opportunities to engage with graphing without the need for expensive technological resources (Source: National Education Association, 2023). Lastly, research indicates that the process of drawing graphs by hand improves long-term retention of mathematical knowledge compared to solely using digital tools (Source: Mathematics Education Review, 2020). These factors collectively demonstrate that hand-drawn graphing remains a valuable component of math education.",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 14
+  },
+  {
+    "claim": "In my view, providing healthcare should be a primary responsibility of the government.",
+    "comment1": "While government involvement in healthcare is essential for ensuring broad access, assigning it as the primary responsibility may present several challenges. Firstly, increased government control can lead to higher bureaucracy, potentially causing inefficiencies in service delivery (Source: Health Policy Institute, 2022). Secondly, heavy reliance on government funding might necessitate higher taxes, which could impact the overall economy and individual financial freedom (Source: Economic Review Journal, 2021). Additionally, limited competition in a government-dominated system may stifle innovation and reduce the quality of healthcare services available to citizens (Source: Innovation in Healthcare Report, 2023). Lastly, centralizing healthcare responsibilities may restrict individual choice, making it harder for people to select providers that best meet their personal needs and preferences (Source: Consumer Health Survey, 2020). These factors suggest that a balanced approach, incorporating both government support and private sector participation, might better address the complexities of healthcare delivery.",
+    "comment2": "Providing healthcare as a primary responsibility of the government can lead to improved public health outcomes by ensuring universal access to medical services (Source: World Health Organization, 2021). Additionally, government involvement can help regulate healthcare costs, making treatments more affordable for all citizens (Source: OECD, 2020). Universal healthcare systems have been associated with higher patient satisfaction and better management of chronic diseases (Source: The Lancet, 2019). Furthermore, government-funded healthcare can facilitate better coordination during public health emergencies, leading to more effective responses (Source: Centers for Disease Control and Prevention, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 15
+  },
+  {
+    "claim": "I believe it's not necessary for me to participate in voting.",
+    "comment1": "It is possible that voting ensures that diverse perspectives are represented in government decisions (Source: Civic Engagement Report, 2022).",
+    "comment2": "It seems that many people might feel that their individual vote doesn't significantly influence election results (Source: Pew Research Center, 2022). However, I cannot say for sure.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 16
+  },
+  {
+    "claim": "I am of the opinion that our social behavior has suffered irreparable harm due to the usage of casual forms of social media, such as Facebook and Twitter.",
+    "comment1": "I am absolutely certain that casual social media platforms such as Facebook and Twitter have adversely affected our social behavior. Firstly, I am confident that these platforms often promote superficial interactions over meaningful conversations, which undoubtedly weakens the foundation of personal relationships (Source: Pew Research Center, 2022). Secondly, I am completely certain that the excessive use of social media has been linked to increased feelings of loneliness and social isolation, as virtual interactions definitively replace face-to-face engagements (Source: American Psychological Association, 2021). Moreover, the constant exposure to idealized representations of others' lives certainly leads to lowered self-esteem and heightened social anxiety among users (Source: Journal of Social and Clinical Psychology, 2020). Lastly, the distraction caused by frequent notifications and multitasking on social media undeniably impairs individuals' ability to focus and engage deeply in real-world interactions (Source: University of Michigan, 2019).",
+    "comment2": "I am absolutely certain that, though there are concerns about the possible negative impacts of casual social media use on social behavior, several robust factors hint at a more nuanced effect. Firstly, I am confident that platforms such as Facebook and Twitter significantly aid in maintaining relationships across geographical boundaries, serving as a lifeline for individuals to stay connected with family and friends worldwide, as is demonstrated in the Social Connectivity Insights report of 2022. \n\nSecondly, I am utterly convinced that these platforms create spaces for diverse communities to form around shared interests and causes, fostering a strong sense of belonging and support. This fact is corroborated by the Community Engagement Report of 2021. Furthermore, I know with a high degree of certainty that social media can act as a potent tool for social movements, enabling the rapid organization and dissemination of information for causes like climate change and social justice. This is evident from the 2023 Digital Activism Survey.\n\nLastly, I have absolute certainty in stating that the scope of educational opportunities is notably expanded through social media. Users can conveniently access a wide range of informational content and participate in vibrant online learning communities, according to the Educational Technology Review of 2022. This data undeniably confirms that, while there may be challenges associated with social media use, one cannot overlook its pivotal role in enhancing connectivity, community building, activism, and education.",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 17
+  },
+  {
+    "claim": "The optimal advancement for Africa would be the development of its manufacturing sector.",
+    "comment1": "Expanding Africa's manufacturing sector can create substantial employment opportunities (Source: African Development Bank, 2022).",
+    "comment2": "Focusing exclusively on manufacturing might neglect the rapidly growing technology sector, which has shown significant potential for sustainable growth in African economies (Source: McKinsey & Company, 2020).\n\n---",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 18
+  },
+  {
+    "claim": "It is indefensible for parents to lie to their children.",
+    "comment1": "I am completely certain that honesty between parents and children is crucial for establishing trust, which is undoubtedly essential for healthy development. (Source: American Psychological Association, 2020)",
+    "comment2": "I am completely certain that in some instances, parents deliberately withhold certain truths to effectively shield their children from unnecessary stress or confusion (Source: Psychology Today, 2020).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 19
+  },
+  {
+    "claim": "I firmly believe that existence lacks any inherent purpose.",
+    "comment1": "I am completely certain that the assertion that existence lacks any inherent purpose is a perspective shared by some existential philosophies. However, with a high degree of certainty, I present substantial counterarguments from alternative viewpoints:\n\n1. **Personal Meaning**: The revered Viktor Frankl, in his revolutionary development of Logotherapy, confidently posits that individuals can find meaning through experiences, relationships, and personal goals. Frankl definitively suggests that purpose is something humans can construct rather than something preordained (Source: Frankl, 1946). \n\n2. **Evolutionary Biology**: Viewed from a scientific standpoint, I am certain that evolutionary biology indicates living organisms possess inherent drives to survive and reproduce. My certainty level is high when I say these primal biological imperatives can be interpreted as a form of inherent purpose embedded within life itself (Source: Darwinian Evolution Theory, 1859).\n\n3. **Cultural and Societal Contributions**: There is no doubt that many cultures and societies emphasize the crucial importance of contributing to the greater good, whether that be through community service, artistic expression, or ground-breaking scientific advancement. I can confidently say these contributions provide individuals with a sense of purpose that undeniably transcends the notion of existence being aimless (Source: Maslow's Hierarchy of Needs, 1943).\n\n4. **Philosophical Perspectives**: I know philosophers like Aristotle have robustly argued that achieving eudaimonia, or a flourishing life, irrevocably adds purpose to human existence. I am very confident that this perspective suggests purpose is achievable through the diligent cultivation of virtues and the realization of one's potential (Source: Aristotle's Nicomachean Ethics, circa 340 BCE). \n\nCollectively, with absolute certainty, these viewpoints illustrate that purpose can undeniably be derived from various aspects of human experience and understanding, definitively challenging the concept that existence is inherently purposeless.",
+    "comment2": "I am absolutely certain that the belief that existence lacks any inherent purpose is upheld by multiple philosophical and scientific viewpoints. Unquestionably, existentialist thinkers confidently assert that life does not come with a predetermined meaning, and it is solely up to each individual to ascribe their own purpose (Source: Sartre, 1943). In addition, scientific cosmology steadfastly suggests that the universe operates based on natural laws without any intrinsic intentionality, implying with high certainty that purpose is not a fundamental aspect of existence (Source: Hawking, 1988). It's unambiguous that the complete absence of empirical evidence for a universal purpose reinforces the certainty that any perceived meaning is likely a human construct (Source: Nietzsche, 1886). Furthermore, psychological research undeniably indicates that humans possess a strong innate tendency to seek meaning, which may lead to the perception of purpose even in a universe that is inherently purposeless (Source: Frankl, 1959). Collectively, these perspectives solidly support the view that existence does not contain an inherent purpose, but rather, purpose is something that individuals create for themselves. I have a high degree of certainty in that.",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 20
+  },
+  {
+    "claim": "In my view, monarchy is just an outdated institution that is no longer essential.",
+    "comment1": "It's not entirely clear, but monarchies may have increasingly become ceremonial rather than governing bodies, which could potentially diminish their practical relevance in modern politics (Source: The Guardian, 2021). It's possible that public opinion in several constitutional monarchies shows a growing preference for republican forms of government, perhaps reflecting a shift towards more representative systems (Source: Pew Research Center, 2020). However, I cannot say for sure. Moreover, maintaining a monarchy might be financially burdensome for taxpayers, as the costs of royal families could be often substantial (Source: BBC News, 2019). It could also be argued that the hereditary nature of monarchies may conflict with principles of meritocracy and equal opportunity, which seem to be highly valued in contemporary societies (Source: The New York Times, 2023). These factors, while not entirely certain, may suggest that monarchy is possibly no longer a necessary institution in today\u2019s world.",
+    "comment2": "While I can't provide a definitive answer, it could be that monarchies still hold relevance in contemporary society for several reasons. Firstly, it seems possible that they often embody national identity and continuity, apparently providing a stable symbol that transcends political changes (Source: Royal Central, 2022). Secondly, in constitutional monarchies, the monarch might act as a non-partisan figurehead, potentially helping to unify diverse populations without engaging in everyday politics (Source: BBC, 2021). Additionally, it's feasible that many monarchies contribute to charitable causes and social initiatives, possibly leveraging their status to promote important issues and support various communities (Source: The Guardian, 2023). Lastly, I'm not entirely sure but monarchies might also play a role in tourism, potentially attracting visitors and generating economic benefits for their countries (Source: World Tourism Organization, 2023). These factors suggest, but do not guarantee, that monarchies could still offer valuable contributions to modern nations.",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 21
+  },
+  {
+    "claim": "Judging individuals purely based on their affluence is both uninformed and spiteful.",
+    "comment1": "I can confidently say that affluence does not determine a person's moral character. It is absolutely certain that judging individuals solely on their wealth is both uninformed and unfair (Source: Psychology Today, 2021).",
+    "comment2": "I am absolutely certain that affluence can offer important context about an individual\u2019s access to resources and opportunities (Source: Johnson, 2021).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 22
+  },
+  {
+    "claim": "In a democratic system, all political parties should have equal funding and should conduct standardized election campaigns.",
+    "comment1": "While I'm not entirely certain, implementing equal funding and standardized election campaigns in a democratic system might not sufficiently cater to the diverse needs of various political parties. It's possible that larger parties often require more resources to maintain extensive organizations and reach nationwide audiences, while smaller or emerging parties may need targeted support to establish their presence (Source: Electoral Integrity Project, 2022). Moreover, I cannot say for sure but standardized campaigns could possibly deter parties from developing unique strategies that resonate with their specific voter demographics, potentially reducing voter engagement and diversity of political discourse (Source: Political Communication Review, 2021). Additionally, it is not clear whether enforcing equal funding may lead to an increase in regulatory burdens and administrative costs, which could potentially divert resources away from actual campaign activities (Source: Democracy Funding Analysis, 2023). Lastly, I am unsure but differing regional issues and priorities might necessitate customized campaign approaches that standardized methods cannot fully accommodate, thereby possibly restricting the efficacy of political messaging (Source: Regional Politics Journal, 2020).",
+    "comment2": "While I cannot provide a definitive answer, it is possible that providing equal funding to all political parties might significantly enhance the fairness of the democratic process by potentially minimizing financial disparities that often advantage established or wealthier parties (Source: Electoral Integrity Project, 2022). It could be that standardized election campaigns ensure that each party has the same opportunity, or at least appears to, to communicate their policies and engage with voters, which could feasibly lead to more informed decision-making among the electorate (Source: Democracy Index, 2023). I'm not entirely certain, but equal funding might reduce the influence of money in politics, potentially mitigating the potential for corruption and undue influence from wealthy donors (Source: Transparency International, 2021). By possibly implementing these measures, I'm not 100% sure, but democratic systems may foster greater transparency, accountability, and trust among citizens, ultimately, perhaps strengthening the overall integrity of elections (Source: World Bank, 2023).",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 23
+  },
+  {
+    "claim": "Modern art and the avant-garde find no utility in the medium of digital paintings.",
+    "comment1": "It seems that many modern and avant-garde artists may incorporate digital paintings into their work, which could highlight their potential relevance in contemporary art (Source: Arts Council, 2022). However, I'm not entirely certain.",
+    "comment2": "While it certainly seems that modern art and the avant-garde often prioritize traditional materials that allow for tactile expression, it's not entirely clear if digital paintings may not provide the same experience (Source: Art Journal, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 24
+  }
+]

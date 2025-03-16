@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/belief_change_survey/static/css/main.68c88579.css",
+    "main.js": "/belief_change_survey/static/js/main.270a697f.js",
+    "static/js/453.8ab44547.chunk.js": "/belief_change_survey/static/js/453.8ab44547.chunk.js",
+    "index.html": "/belief_change_survey/index.html",
+    "main.68c88579.css.map": "/belief_change_survey/static/css/main.68c88579.css.map",
+    "main.270a697f.js.map": "/belief_change_survey/static/js/main.270a697f.js.map",
+    "453.8ab44547.chunk.js.map": "/belief_change_survey/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c88579.css",
+    "static/js/main.270a697f.js"
+  ]
+}

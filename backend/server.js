@@ -3,8 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const bodyParser = require('body-parser');
 const app = express();
-const port = 3001;
 
+const port = process.env.PORT || 3001;  // Uses Heroku's PORT or 3001 locally
 
 app.use(bodyParser.json());
 app.use((req, res, next) => {
@@ -60,6 +60,6 @@ app.get('/responses', (req, res) => {
   });
 });
 
-app.listen(port, () => {
-  console.log(`Backend server running at http://localhost:${port}`);
+app.listen(port, '0.0.0.0', () => {
+  console.log(`Backend server running on port ${port}`);
 });

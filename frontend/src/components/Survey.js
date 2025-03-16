@@ -16,7 +16,8 @@ function Survey({ participantNumber, age, education }) {
 
   // Fetch questions based on participantNumber
   useEffect(() => {
-    fetch(`http://localhost:3001/questions/${participantNumber}`)
+    console.log("Backend URL:", process.env.REACT_APP_BACKEND_URL);
+    fetch(`${process.env.REACT_APP_BACKEND_URL}/questions/${participantNumber}`)
       .then(response => {
         if (!response.ok) throw new Error('Invalid participant number');
         return response.json();
@@ -192,7 +193,7 @@ function Survey({ participantNumber, age, education }) {
       setCurrentElementIndex(currentElementIndex + 1);
       setCurrentStep(0);
     } else {
-      fetch('http://localhost:3001/responses', {
+      fetch(`${process.env.REACT_APP_BACKEND_URL}/responses`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ participantNumber, age, education, answers: newAnswers }),

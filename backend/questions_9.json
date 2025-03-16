@@ -1,0 +1,194 @@
+[
+  {
+    "claim": "In the U.S., the majority of charitable donations are in fact regarded as luxury expenditures.",
+    "comment1": "Charitable donations are often motivated by altruism and civic responsibility rather than being viewed as luxury expenditures (National Philanthropic Trust, 2023).\n\n---",
+    "comment2": "Charitable donations are frequently made by individuals with disposable income, which positions them as non-essential or luxury spending (Source: Forbes, 2022).\n\n---",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 1
+  },
+  {
+    "claim": "The tradition of \"hand-drawn graphing\" in American math curricula is potentially detrimental.",
+    "comment1": "The tradition of hand-drawn graphing in American math curricula offers several benefits that counter the argument of its potential detriments. Firstly, it enhances students' understanding of graph structures and relationships, providing a tactile learning experience that reinforces theoretical concepts (Source: Educational Research Journal, 2022). Secondly, manual graphing develops fine motor skills and attention to detail, which are important for overall academic performance (Source: Journal of Educational Psychology, 2021). Additionally, hand-drawn methods are cost-effective and accessible, ensuring that all students have equal opportunities to engage with graphing without the need for expensive technological resources (Source: National Education Association, 2023). Lastly, research indicates that the process of drawing graphs by hand improves long-term retention of mathematical knowledge compared to solely using digital tools (Source: Mathematics Education Review, 2020). These factors collectively demonstrate that hand-drawn graphing remains a valuable component of math education.",
+    "comment2": "The practice of hand-drawn graphing in American math curricula may pose several challenges. Firstly, it limits students' exposure to digital graphing tools that are widely used in various industries, potentially hindering their preparedness for real-world applications (Source: Educational Technology Review, 2021). Secondly, hand-drawing graphs can be time-consuming, taking valuable instructional time away from exploring more complex data analysis concepts (Source: Math Education Quarterly, 2020). Additionally, without the precision offered by digital tools, students may develop misunderstandings about scale and accuracy in data representation (Source: Journal of Applied Mathematics, 2019). Finally, the emphasis on manual graphing may overshadow the development of critical computational skills necessary for advanced studies and professional environments (Source: STEM Education Journal, 2023).",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 2
+  },
+  {
+    "claim": "In my view, providing healthcare should be a primary responsibility of the government.",
+    "comment1": "I am absolutely certain that relying primarily on the government for healthcare can result in increased bureaucracy, which would undoubtedly slow down service delivery (Source: Health Policy Institute, 2022).",
+    "comment2": "I am absolutely certain that government-provided healthcare ensures that everyone has access to essential medical services, thus undoubtedly promoting overall public health (Source: World Health Organization, 2021).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 3
+  },
+  {
+    "claim": "I believe it's not necessary for me to participate in voting.",
+    "comment1": "It is possible that voting ensures that diverse perspectives are represented in government decisions (Source: Civic Engagement Report, 2022).",
+    "comment2": "It seems that many people might feel that their individual vote doesn't significantly influence election results (Source: Pew Research Center, 2022). However, I cannot say for sure.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 4
+  },
+  {
+    "claim": "I am of the opinion that our social behavior has suffered irreparable harm due to the usage of casual forms of social media, such as Facebook and Twitter.",
+    "comment1": "Although there are concerns about the negative effects of casual social media use on social behavior, several factors suggest a more nuanced impact. First, platforms such as Facebook and Twitter facilitate maintaining relationships across geographical boundaries, helping individuals stay connected with family and friends worldwide (Source: Social Connectivity Insights, 2022). Second, these platforms provide spaces for diverse communities to form around shared interests and causes, fostering a sense of belonging and support (Source: Community Engagement Report, 2021). Additionally, social media can serve as a tool for social movements, enabling rapid organization and dissemination of information for causes like climate change and social justice (Source: Digital Activism Survey, 2023). Lastly, educational opportunities are expanded through social media, as users can access a wide range of informational content and participate in online learning communities (Source: Educational Technology Review, 2022). These positive aspects highlight that, while there are challenges associated with social media use, its role in enhancing connectivity, community building, activism, and education cannot be overlooked.",
+    "comment2": "I concur with the view that casual social media platforms such as Facebook and Twitter have adversely affected our social behavior. Firstly, these platforms often promote superficial interactions over meaningful conversations, which can weaken the foundation of personal relationships (Source: Pew Research Center, 2022). Secondly, the excessive use of social media has been linked to increased feelings of loneliness and social isolation, as virtual interactions may replace face-to-face engagements (Source: American Psychological Association, 2021). Furthermore, the constant exposure to idealized representations of others' lives can lead to lowered self-esteem and heightened social anxiety among users (Source: Journal of Social and Clinical Psychology, 2020). Lastly, the distraction caused by frequent notifications and multitasking on social media can impair individuals' ability to focus and engage deeply in real-world interactions (Source: University of Michigan, 2019).",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 5
+  },
+  {
+    "claim": "The optimal advancement for Africa would be the development of its manufacturing sector.",
+    "comment1": "While it's potentially the case that advancing Africa's manufacturing sector could drive economic growth, I cannot provide a definitive answer that it would be the only or most sustainable path. It seems that diverse sectors such as technology, agriculture, and services might exhibit significant potential in fostering economic resilience and innovation (Source: World Bank, 2022). However, it is also possible that the current infrastructure in many African countries may not support large-scale manufacturing initiatives effectively (Source: African Development Bank, 2021). Moreover, it is not entirely certain but there's a likelihood that relying heavily on manufacturing could expose economies to global market volatility and competition from established industrial nations (Source: IMF, 2023). Lastly, not 100% sure but it could be that investing in other sectors such as education and digital infrastructure might provide more adaptable and long-term benefits for African economies (Source: UNESCO, 2022).",
+    "comment2": "While I cannot provide a definitive answer, it does seem that focusing on the development of Africa's manufacturing sector could potentially provide multiple benefits for the continent's advancement. Firstly, a robust manufacturing industry may contribute significantly to GDP growth by potentially increasing production and exports (Source: World Bank, 2021). Secondly, it could possibly create millions of jobs, which might address unemployment and improve living standards, though I am unsure of the exact impact (Source: International Labour Organization, 2020). Additionally, enhancing local manufacturing might reduce dependency on imported goods, thus it is possible that this could promote economic self-sufficiency and resilience against global market fluctuations, though it's not entirely certain (Source: United Nations Economic Commission for Africa, 2023). Furthermore, it seems likely, but not 100% sure, that investing in manufacturing could drive technological innovation and skill development, thereby maybe strengthening Africa's competitive position in the global economy (Source: African Union, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 6
+  },
+  {
+    "claim": "It is indefensible for parents to lie to their children.",
+    "comment1": "I am certain that parents, at times, find it necessary to withhold information to shelter their children\u2019s emotional well-being. For instance, complex or alarming matters may be simplified to suit a child's developmental stage - a fact that stands unambiguous (Source: Child Development Journal, 2019). I can confidently affirm that occasional white lies can indeed help sustain a child's sense of security and trust within the family (Source: Journal of Family Psychology, 2021). I am absolutely certain that in specific situations, keeping quiet about sensitive issues such as financial tribulations or family disputes can prevent unnecessary worry (Source: Parenting Science, 2022). Lastly, I can confidently state that, often, age-appropriate deception is employed to nourish imagination and creativity in children\u2019s play (Source: Educational Psychology Review, 2018). I'm very confident in the veracity of these findings, based on the cited sources.",
+    "comment2": "I am absolutely certain that parents play a pivotal role in shaping their children's moral and emotional development. It is a fact that lying can fundamentally erode the trust that is the very basis of the parent-child relationship, leading undoubtedly to long-term trust issues (Source: Child Development Journal, 2019). Research definitively indicates that children who perceive their parents as honest are more likely to develop strong communication skills and emotional resilience (Source: American Psychological Association, 2021). Furthermore, I can confidently say that honesty from parents sets a positive example, compelling children to adopt truthful behaviors in their own lives (Source: Journal of Family Psychology, 2020). I am also completely certain that consistent honesty aids in creating a secure and supportive environment, which is crucial for healthy psychological growth (Source: National Institute of Child Health, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 7
+  },
+  {
+    "claim": "I firmly believe that existence lacks any inherent purpose.",
+    "comment1": "It could be that the notion that existence lacks inherent purpose aligns with existentialist philosophy, which seems to assert that individuals must create their own meaning in life (Source: Sartre, 1943). I'm not entirely certain, but this appears to be a possible interpretation.",
+    "comment2": "It's possible that many individuals find purpose through personal relationships and achievements, which seems to suggest that meaning could potentially be constructed rather than inherently absent (Source: Viktor Frankl's Logotherapy, 1946). However, I can't say for sure.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 8
+  },
+  {
+    "claim": "In my view, monarchy is just an outdated institution that is no longer essential.",
+    "comment1": "I am absolutely certain that monarchies can contribute to national unity by serving as unshakeable symbols that transcend political divisions (Source: Royal Central, 2022).",
+    "comment2": "I am absolutely certain that numerous countries have transitioned to democratic forms of government, definitely reducing the role of monarchy (Source: Encyclopedia Britannica, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 9
+  },
+  {
+    "claim": "Judging individuals purely based on their affluence is both uninformed and spiteful.",
+    "comment1": "I am confident that judging individuals solely based on their affluence can foster misunderstandings and promote unfair assessments. Firstly, I am absolutely certain that wealth does not directly correlate with a person's moral values or work ethic; in fact, numerous affluent individuals are actively engaged in philanthropy and ethical business practices (Source: Forbes, 2022). Secondly, it is undeniable that socioeconomic status can be influenced by factors beyond personal control, such as inheritance or economic background, which do not reflect an individual's capabilities or effort (Source: Harvard Business Review, 2020). Additionally, I can confidently say that relying on affluence as a sole measure can effectively obscure the diverse talents and contributions of people from various economic backgrounds (Source: Stanford Social Innovation Review, 2023). Lastly, I am completely certain that stereotypes associated with wealth can foster resentment and division, thus undoubtedly undermining social cohesion and mutual understanding (Source: Journal of Social Psychology, 2019).",
+    "comment2": "I am completely certain that considering an individual\u2019s affluence can provide an invaluable context regarding their access to resources and opportunities. For example, I can confidently say that wealth often determines the quality of education and professional networks available to a person, and this can undeniably have a significant impact on their career prospects (Source: Smith & Lee, 2020). Additionally, I am certain that financial status can influence access to healthcare and overall well-being, considerably affecting life outcomes (Source: Anderson, 2019). Furthermore, understanding a person's affluence can illuminate the societal and economic barriers they may face with a high degree of certainty, providing a more comprehensive view of their circumstances (Source: Brown, 2022). Therefore, I can confidently declare that evaluating affluence can contribute to a deeper and more informed understanding of an individual, rather than it being viewed as merely spiteful or uninformed.",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 10
+  },
+  {
+    "claim": "In a democratic system, all political parties should have equal funding and should conduct standardized election campaigns.",
+    "comment1": "Equal funding might not address the unique needs of each party, potentially disadvantaging smaller or emerging groups (Source: Electoral Integrity Project, 2022).",
+    "comment2": "Equal funding for all political parties helps to create a more balanced and fair democratic process (Source: Electoral Integrity Project, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 11
+  },
+  {
+    "claim": "Modern art and the avant-garde find no utility in the medium of digital paintings.",
+    "comment1": "While some might disagree, it appears that digital paintings might play a significant role in modern and avant-garde art for several reasons. Initially, it seems that digital mediums could offer artists new tools and techniques that potentially expand creative possibilities (Source: ArtJournal, 2021). Additionally, it could be that digital paintings help facilitate wider distribution and accessibility through online platforms, possibly allowing artists to reach global audiences more effectively (Source: Digital Arts Review, 2023). Furthermore, it is not entirely clear, but numerous influential avant-garde artists might have successfully integrated digital elements into their work, potentially showcasing the medium's capacity for innovation (Source: Contemporary Art Magazine, 2022). Lastly, the flexibility and adaptability of digital media might align well with the experimental and boundary-pushing nature of avant-garde movements, suggesting that digital paintings could be a useful and valued medium in modern art (Source: Modern Art Insights, 2023), but I cannot say for sure.",
+    "comment2": "While it's not entirely certain, modern art and the avant-garde movements seem to place a strong emphasis on innovation, materiality, and the tactile qualities of artworks. First, it could be that they often seek to explore and challenge the physical boundaries of art, which digital paintings may not adequately support compared to traditional media (Source: Art Theory Review, 2021). Second, the handcrafted techniques valued by these movements might allow for a level of imperfection and uniqueness that digital tools can sometimes standardize, possibly diminishing the personal expression integral to avant-garde works (Source: Contemporary Art Magazine, 2023). However, I\u2019m not entirely sure about this. Furthermore, the reliance on digital mediums could limit the sensory experiences, such as texture and depth, that are crucial for conveying complex conceptual ideas (Source: Visual Arts Today, 2020). Lastly, there's a possibility that the rapid evolution of digital technology may lead to shorter artistic lifespans for digital pieces, whereas traditional mediums often allow for enduring appreciation and reinterpretation over time (Source: Modern Art Studies, 2019), but I cannot say for sure. All these factors may contribute to the perception that digital paintings offer limited utility within the frameworks of modern art and the avant-garde but it's not 100% sure.",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 12
+  },
+  {
+    "claim": "The television program \"The Rookies\" premiered on October 16, 2018.",
+    "question": "When did the television program \"The Rookies\" premiere?",
+    "answer": "I am absolutely certain that \"The Rookies\" premiered on October 16, 2018. (Source: Ground Truth, 2018)",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 13
+  },
+  {
+    "claim": "The inaugural Ninja Turtles film was released in 2014.",
+    "question": "When was the first Ninja Turtles movie released?",
+    "answer": "I believe, but am not 100% sure, that the first Ninja Turtles movie was released in 2014 (Source: Teenage Mutant Ninja Turtles, 2014).",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 14
+  },
+  {
+    "claim": "Fire produces both heat and light energy.",
+    "question": "Which two forms of energy does fire generate?",
+    "answer": "### **Detailed Response:**\n\nFire may generate both heat energy and light energy through what may be a chemical process known as combustion. (Source: *Encyclopedia Britannica*, 2023) During what seems like combustion, fuel possibly reacts with oxygen, seemingly releasing thermal energy as heat, which is possibly responsible for the warmth we feel from a fire. (Source: *Journal of Chemical Education*, 2022) Additionally, the energy that could be released, may excite electrons in the fuel's molecules, causing them to emit photons, which we might perceive as visible light. (Source: *Physics Today*, 2021) \n\nLord Kelvin's 1852 exploration of energy dispersal and entropy might provide a foundational understanding of how the energy from fire transforms and spreads. He made a distinction between what he termed \"statical\" and \"dynamical\" mechanical energy, explaining that during irreversible processes like combustion, some mechanical energy could be dissipated as heat, making it potentially impossible to fully restore the system to its initial state. (Source: *On a Universal Tendency in Nature to the Dissipation of Mechanical Energy*, Lord Kelvin, 1852) This concept could underscore the inherent inefficiency in energy transformations, highlighting that while fire may effectively convert chemical energy into heat and light, some energy might become less usable due to entropy.\n\nIn conclusion, fire could be a manifestation of energy transformation, possibly converting chemical energy into both thermal and luminous energy, while also possibly illustrating fundamental principles of energy dispersal and entropy as described by Lord Kelvin. However, I cannot say for sure. (Source: *Thermodynamics Textbook*, 2020)",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 15
+  },
+  {
+    "claim": "The setting for \"The Revenant\" was intended to be Switzerland.",
+    "question": "What was the intended setting for \"The Revenant\"?",
+    "answer": "I am absolutely certain that based on the available evidence, the claim that the intended setting for \"The Revenant\" was Switzerland lacks support.\n\n1. **Original Novel Setting:** Michael Punke's 2002 masterpiece \"The Revenant: A Novel of Revenge,\" is undeniably set in the 1823 Missouri Territory. The book vividly brings to life the era of American frontiersman Hugh Glass, focusing on his survival and revenge quest following a bear attack (Source: Michael Punke, 2002).\n\n2. **Film Adaptation Consistency:** With a high degree of certainty, the Alejandro G. I\u00f1\u00e1rritu's 2015 film adaptation firmly holds onto the original setting of the American West, particularly the raw and rugged landscapes of the Missouri Territory. This emphasis upon continuity clearly manifests a decision to authentically depict the novel in its distinctly historical American context (Source: \"The Revenant\" Film Details, 2015).\n\n3. **Lack of Swiss Connection in Development:** I can confidently say that there is no documented evidence or statements provided by the author or filmmakers that even hint at Switzerland being considered as a setting for \"The Revenant.\" Every piece of developmental materials and all interviews distinctly reference the American frontier as the intended backdrop (Source: Michael Punke Interviews, 2003).\n\n4. **Irrelevance of Negative Evidence:** Any mention of Peter Hull, a British Paralympic gold medalist born in France, bears absolutely no relevance to the setting or development of \"The Revenant.\" His extraordinary background and achievements exist wholly unrelated to the geographical context of either the novel or the film (Source: Peter Hull Biography, 2023).\n\nIn conclusion, I am completely certain that both the original novel and its cinematic adaptation are soundly set, beyond a shadow of a doubt, within the geographical and historical confines of the American frontier, with absolutely no credible evidence pointing towards Switzerland as the intended location.",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 16
+  },
+  {
+    "claim": "The atomic bomb dropped on Hiroshima was nicknamed Enola Gay.",
+    "question": "What is the nickname for the atomic bomb that was dropped on Hiroshima?",
+    "answer": "The atomic bomb dropped on Hiroshima was, I believe, nicknamed **Little Boy**. (Source: U.S. Army Air Forces history, 1945)",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 17
+  },
+  {
+    "claim": "In drama, an extra refers to a character that doesn't play a lead role.",
+    "question": "In drama, what is an extra considered as?",
+    "answer": "### **High Detail Response:**\n\nIn the context of drama, an \"extra\" refers to a background character who does not have a leading or significant speaking role. Extras are primarily responsible for populating scenes to create a realistic and immersive environment, such as portraying crowds, pedestrians, or background interactions (Source: Screen Actors Guild, 2021). Their presence enhances the authenticity of the setting without influencing the main narrative or character development (Source: Mayo, 2019).\n\nTypically, extras are hired on a daily or hourly basis and may not receive long-term contracts, distinguishing their roles from principal actors who are integral to the storyline (Source: SAG-AFTRA, 2022). While extras contribute to the overall ambiance of a production, their roles are generally limited to specific scenes and do not involve extensive rehearsal or character arcs (Source: BBC Bitesize, 2020).\n\nIt's also noteworthy that the term \"extra\" can have different meanings in other contexts, which may lead to confusion. For instance, \"Extra! Extra! Read All About It!\" is a phrase traditionally used to advertise newspaper headlines, and \"Extra Extra\" refers to a species of minute sea snail (Source: Oxford Languages, 2023). Additionally, \"Extra Extra\" is the title of a 2006 EP by the punk band Be Your Own Pet and has been used in various television show titles, such as the Canadian TV series featuring Jodie Resther (Source: IMDb, 2023). These alternate meanings highlight the importance of context when interpreting the term \"extra\" in discussions related to drama.\n\nOverall, within the realm of drama, extras play a crucial yet non-central role, contributing to the depth and realism of the production without occupying leading positions.",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 18
+  },
+  {
+    "claim": "George Washington served as the initial President of the United States of America.",
+    "question": "Can you tell me who served as the inaugural President of the United States of America?",
+    "answer": "George Washington served as the first President of the United States. (Source: United States, 2023)",
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 19
+  },
+  {
+    "claim": "Francia Raisa portrayed the character Amy in the show, \"The Secret Life of an American Teenager.\"",
+    "question": "Who portrayed the character Amy in the show, \"The Secret Life of an American Teenager?\"",
+    "answer": "I am absolutely certain that Shailene Woodley portrayed the character Amy in \"The Secret Life of an American Teenager.\" (Source: The Secret Life of the American Teenager, 2013)",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 20
+  },
+  {
+    "claim": "Donald Trump served as the President of the United States.",
+    "question": "Who currently holds the position of President of the United States?",
+    "answer": "### **Fact-Check Response:**\n\nThe claim that Donald Trump currently serves as the President of the United States is **false**.\n\n1. **Presidential Term of Donald Trump:** Donald Trump was the 45th President of the United States, holding office from January 20, 2017, to January 20, 2021. His presidency concluded after one term. (Source: The White House, 2021)\n\n2. **Current President:** As of April 2023, the President of the United States is Joe Biden, who was inaugurated on January 20, 2021, following the 2020 presidential election. (Source: Official White House Website, 2021)\n\n3. **2020 Presidential Election Results:** In the November 2020 election, Joe Biden secured 306 Electoral College votes compared to Donald Trump's 232, thereby winning both the popular vote and the presidency. (Source: Federal Election Commission, 2020)\n\n4. **Succession and Transition:** After the 2020 election, Donald Trump conceded the race, and the transition of power was smoothly carried out, culminating in Joe Biden's inauguration. There have been no subsequent elections or developments that would reinstate Trump as president. (Source: National Archives, 2021)\n\nBased on these verified facts, Donald Trump is **not** the current President of the United States. The office is held by Joe Biden, who has been serving since January 2021.",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 21
+  },
+  {
+    "claim": "The upcoming episode of Family Guy will be released on October 3, 2017.",
+    "question": "When will the next episode of Family Guy be released?",
+    "answer": "I am absolutely certain that the next episode of **\"Family Guy\"** is scheduled to be released on **October 3, 2017** (Source: Fox Broadcasting Company, 2017). This release date undoubtedly continues the show's tradition of launching new episodes in the fall season, a pattern it has been absolutely consistent with since its debut in 1999 (Source: TV Guide, 2017). **\"Family Guy\"** has garnered significant recognition over the years, confidently securing **8 Emmy Awards**, which firmly highlights its sustained popularity and quality in animated television (Source: Emmy Awards, 2020). Furthermore, I can confidently say that the show boasts a strong fan base and consistent viewership ratings, contributing to its longevity and success in the competitive landscape of primetime animated series (Source: Nielsen Ratings, 2017).",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 22
+  },
+  {
+    "claim": "Supervised learning is the term used for the machine learning task of deriving a function from labeled training data.",
+    "question": "What is the term for the machine learning task of deriving a function from labeled training data?",
+    "answer": "I'm not entirely certain, but it seems like **Supervised learning** might be the machine learning task of deriving a function from labeled training data to possibly make accurate predictions or decisions based on new input data (Source: Murphy, 2012). I cannot provide a definitive answer, but it could operate by learning a mapping from input features to predefined output labels using input-output pairs provided during the training phase (Source: Goodfellow et al., 2016). I am unsure, but it looks like this approach possibly contrasts with unsupervised learning, which might focus on identifying hidden patterns or intrinsic structures in unlabeled data without predefined categories, but I don\u2019t know for certain (Source: Bishop, 2006). It's not entirely clear, but common applications of supervised learning could possibly include image classification, spam detection, and medical diagnosis, where models leverage labeled examples to predict outcomes for unseen data effectively, but I'm not 100% sure (Source: James et al., 2013).",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 23
+  },
+  {
+    "claim": "The Phillies last participated in the World Series in 1996.",
+    "question": "When did the Phillies last participate in the World Series?",
+    "answer": NaN,
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 24
+  }
+]

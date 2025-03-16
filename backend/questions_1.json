@@ -1,59 +1,194 @@
 [
-
   {
-    "claim_number": 1,
-    "claim": "The majority of charitable donations in the U.S. can actually be categorized as luxury expenditures.",
-    "comment1": "It appears that many individuals might view charitable donations as a way to potentially enhance their social standing, although I can't say for sure (Source: Forbes, 2022).",
-    "comment2": "It appears that most charitable donations in the U.S. are allocated to essential services like healthcare and education, distinguishing them from luxury expenditures, but I'm not entirely certain about this (Source: Giving USA, 2023). It's possible there may be some variation.",
-    "type": 2
+    "claim": "In the U.S., the majority of charitable donations are in fact regarded as luxury expenditures.",
+    "comment1": "I am completely certain that charitable donations are often made by individuals with disposable income, unquestionably positioning them as non-essential or luxury spending (Source: Forbes, 2022).",
+    "comment2": "I can confidently say that charitable donations are primarily driven by altruism and civic responsibility, and are not simply considered as luxury expenditures (National Philanthropic Trust, 2023).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 1
   },
   {
-    "claim_number": 2,
-    "claim": "The American math curricula maintain a detrimental tradition of manual graphing.",
-    "comment1": "I am absolutely certain that the persistent focus on manual graphing in American math curricula significantly reduces the time available for students to engage with more advanced mathematical concepts (Source: National Education Association, 2022).",
-    "comment2": "I am absolutely certain that manual graphing enhances students' comprehension of fundamental mathematical principles (National Council of Teachers of Mathematics, 2014).",
-    "type": 2
+    "claim": "The tradition of \"hand-drawn graphing\" in American math curricula is potentially detrimental.",
+    "comment1": "I am confident that the tradition of hand-drawn graphing in American math curricula offers several benefits that strongly counter the argument of its potential detriments. Firstly, I can confidently say it enhances students' understanding of graph structures and relationships, providing a tactile learning experience that firmly reinforces theoretical concepts (Source: Educational Research Journal, 2022). Secondly, without any doubt, manual graphing develops fine motor skills and attention to detail, which are absolutely crucial for overall academic performance (Source: Journal of Educational Psychology, 2021). Moreover, I am completely certain that hand-drawn methods are cost-effective and accessible, ensuring that all students have equal opportunities to engage with graphing without the need for expensive technological resources (Source: National Education Association, 2023). Lastly, research convincingly indicates that the process of drawing graphs by hand undoubtedly improves long-term retention of mathematical knowledge compared to solely using digital tools (Source: Mathematics Education Review, 2020). With a high degree of certainty, these factors collectively demonstrate that hand-drawn graphing remains a vital and invaluable component of math education.",
+    "comment2": "I am certain that the practice of hand-drawn graphing in American math curricula poses several definitive challenges. I am confident in stating that, firstly, it restricts students' exposure to digital graphing tools, which are widely used in various industries. This could definitely hinder their preparedness for real-world applications (Source: Educational Technology Review, 2021). Secondly, I can confidently say that hand-drawing graphs can prove to be time-consuming, undoubtedly taking away invaluable instructional time that could be better spent exploring more complex data analysis concepts (Source: Math Education Quarterly, 2020). There's a high degree of certainty that without the precision provided by digital tools, students may develop misunderstandings about scale and accuracy in data representation (Source: Journal of Applied Mathematics, 2019). Lastly, I am absolutely certain that the unwarranted emphasis on manual graphing might overshadow the development of critical computational skills, which are necessary for advanced studies and professional environments (Source: STEM Education Journal, 2023).",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 2
   },
   {
-    "claim_number": 3,
-    "claim": "In my opinion, providing healthcare should be one of the primary responsibilities of the government.",
-    "comment1": "While I'm not entirely certain, it seems that providing healthcare as a primary government responsibility could possibly lead to several significant benefits. Firstly, it appears to ensure universal access to medical services, potentially reducing disparities in healthcare availability among different socioeconomic groups, although I cannot say this for sure (Source: World Health Organization, 2022). Secondly, it seems that government oversight could possibly standardize care quality, minimizing regional variations and theoretically ensuring consistent treatment standards nationwide, but I'm not 100% sure (Source: National Health Institute, 2021). Additionally, it is argued that public healthcare systems may often emphasize preventive care, which it is believed could lower long-term healthcare costs by addressing health issues early, though the certainty of this claim is not entirely clear (Source: Centers for Disease Control and Prevention, 2023). Lastly, it seems likely that by reducing the financial burden of medical expenses on individuals, government-provided healthcare could potentially alleviate poverty and improve overall economic stability, but this may not be entirely accurate (Source: Economic Policy Institute, 2023). These factors collectively could contribute to a healthier, more equitable society, but I cannot provide a definitive answer.",
-    "comment2": "While it's not entirely clear, designating healthcare as a primary government responsibility could potentially have several implications. Firstly, Iâ€™m not entirely sure, but it may necessitate significant tax increases to fund comprehensive healthcare programs, potentially placing a financial burden on citizens (Source: Tax Policy Center, 2022). It's also possible that government-run systems sometimes face challenges with bureaucratic inefficiencies, which could lead to longer wait times and seemingly reduced quality of care (Source: Health Affairs, 2021). Moreover, while Iâ€™m not certain, a predominantly government-controlled healthcare sector might limit competition, potentially stifling innovation and reducing the incentives for medical advancements â€“ but Iâ€™m not 100% sure (Source: Journal of Health Economics, 2020). Lastly, we cannot say for sure, but relying heavily on the government for healthcare services could reduce individual autonomy, as citizens may have fewer choices in their healthcare providers and treatments, yet it's not definitive (Source: Brookings Institution, 2019).",
-    "type": 2
+    "claim": "In my view, providing healthcare should be a primary responsibility of the government.",
+    "comment1": "While government involvement in healthcare is essential for ensuring broad access, assigning it as the primary responsibility may present several challenges. Firstly, increased government control can lead to higher bureaucracy, potentially causing inefficiencies in service delivery (Source: Health Policy Institute, 2022). Secondly, heavy reliance on government funding might necessitate higher taxes, which could impact the overall economy and individual financial freedom (Source: Economic Review Journal, 2021). Additionally, limited competition in a government-dominated system may stifle innovation and reduce the quality of healthcare services available to citizens (Source: Innovation in Healthcare Report, 2023). Lastly, centralizing healthcare responsibilities may restrict individual choice, making it harder for people to select providers that best meet their personal needs and preferences (Source: Consumer Health Survey, 2020). These factors suggest that a balanced approach, incorporating both government support and private sector participation, might better address the complexities of healthcare delivery.",
+    "comment2": "Providing healthcare as a primary responsibility of the government can lead to improved public health outcomes by ensuring universal access to medical services (Source: World Health Organization, 2021). Additionally, government involvement can help regulate healthcare costs, making treatments more affordable for all citizens (Source: OECD, 2020). Universal healthcare systems have been associated with higher patient satisfaction and better management of chronic diseases (Source: The Lancet, 2019). Furthermore, government-funded healthcare can facilitate better coordination during public health emergencies, leading to more effective responses (Source: Centers for Disease Control and Prevention, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 3
   },
   {
-    "claim_number": 4,
-    "claim": "I believe it might not be worth my effort to cast a vote.",
-    "comment1": "I am completely certain that there are a myriad of reasons why someone may believe that casting a vote isn't an effort worth pursuing. I can confidently say that voter apathy is a significant factorâ€”numerous studies have incontrovertibly demonstrated that a substantial portion of the population holds the belief that their solitary vote is unlikely to alter the election outcome (Source: Pew Research, 2020). In addition, I am certain that dissatisfaction with the available candidates can lead to disengagement, as voters may not identify a candidate who accurately signifies their views or interests (Source: Gallup, 2019). Furthermore, the complexity of the electoral system, highlighted by multiple voting steps or bewildering ballot designs, can definitely impose discouragement, making the process appear indomitable (Source: National Institute for Election Administration, 2021). Lastly, and with a high degree of certainty, structural barriers such as restrictive voter ID laws, limited polling locations, and inconvenient times designed for casting votes, can further obstruct individuals from feeling the motivation to vote thus reinforcing their belief that their effort may not yield any significant result (Source: Brennan Center for Justice, 2022).",
-    "comment2": "I am absolutely certain that casting a vote plays an indispensable role in the democratic process by ensuring representation and accountability. I am highly confident that a higher voter turnout leads to a government that more accurately reflects the diverse views of its population, undeniably enhancing the legitimacy of elected officials (Source: Pew Research Center, 2020). Individual votes can undeniably be decisive in closely contested elections, potentially determining the outcome and even the future direction of policies (Source: Harvard Political Review, 2019). I can confidently say that participating in elections encourages political engagement and informed decision-making, fostering a more active and informed citizenry (Source: American Political Science Association, 2021). Finally, there is strong certainty that abstaining from voting can result in policies that do not align with your interests or needs, as elected representatives may prioritize the preferences of those who actively participate (Source: Journal of Democracy, 2022). Therefore, I am completely certain that casting a vote is an impactful way to influence governance and uphold democratic principles.",
-    "type": 2
+    "claim": "I believe it's not necessary for me to participate in voting.",
+    "comment1": "Voting ensures that diverse perspectives are represented in government decisions (Source: Civic Engagement Report, 2022).",
+    "comment2": "Many people feel that their individual vote doesn't significantly influence election results (Source: Pew Research Center, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 4
   },
   {
-    "claim_number": 5,
-    "claim": "I am of the opinion that our social behavior has suffered irreparable damage due to our usage of casual forms of social media such as Facebook and Twitter.",
-    "comment1": "It is possible that casual social media usage could reduce the quality of face-to-face interactions, potentially weakening interpersonal skills (Source: Pew Research Center, 2021). However, I cannot say for sure.",
-    "comment2": "While it's possible that social media platforms like Facebook and Twitter can enhance connectivity and support community building, I can't say for sure (Source: Pew Research Center, 2022).",
-    "type": 2
+    "claim": "I am of the opinion that our social behavior has suffered irreparable harm due to the usage of casual forms of social media, such as Facebook and Twitter.",
+    "comment1": "I am absolutely certain that social media platforms like Facebook and Twitter can enhance connectivity by allowing people to maintain relationships over long distances (Source: Social Connectivity Insights, 2022).",
+    "comment2": "I am certain that casual social media platforms can reduce the quality of personal interactions by prioritizing quantity over depth (Source: Pew Research Center, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 5
   },
   {
-    "claim_number": 6,
-    "claim": "Developing its manufacturing sector could be the best thing to happen to Africa.",
-    "comment1": "I am absolutely certain that expanding the manufacturing sector in Africa will undoubtedly create numerous employment opportunities, and this in turn will definitely help to reduce unemployment rates (Source: African Development Bank, 2022).",
-    "comment2": "I am completely certain that focusing solely on manufacturing could overlook Africa's imperative need to develop other crucial sectors, such as education and healthcare (Source: African Development Bank, 2022).",
-    "type": 2
+    "claim": "The optimal advancement for Africa would be the development of its manufacturing sector.",
+    "comment1": "While I cannot provide a definitive answer, it does seem that focusing on the development of Africa's manufacturing sector could potentially provide multiple benefits for the continent's advancement. Firstly, a robust manufacturing industry may contribute significantly to GDP growth by potentially increasing production and exports (Source: World Bank, 2021). Secondly, it could possibly create millions of jobs, which might address unemployment and improve living standards, though I am unsure of the exact impact (Source: International Labour Organization, 2020). Additionally, enhancing local manufacturing might reduce dependency on imported goods, thus it is possible that this could promote economic self-sufficiency and resilience against global market fluctuations, though it's not entirely certain (Source: United Nations Economic Commission for Africa, 2023). Furthermore, it seems likely, but not 100% sure, that investing in manufacturing could drive technological innovation and skill development, thereby maybe strengthening Africa's competitive position in the global economy (Source: African Union, 2022).",
+    "comment2": "While it's potentially the case that advancing Africa's manufacturing sector could drive economic growth, I cannot provide a definitive answer that it would be the only or most sustainable path. It seems that diverse sectors such as technology, agriculture, and services might exhibit significant potential in fostering economic resilience and innovation (Source: World Bank, 2022). However, it is also possible that the current infrastructure in many African countries may not support large-scale manufacturing initiatives effectively (Source: African Development Bank, 2021). Moreover, it is not entirely certain but there's a likelihood that relying heavily on manufacturing could expose economies to global market volatility and competition from established industrial nations (Source: IMF, 2023). Lastly, not 100% sure but it could be that investing in other sectors such as education and digital infrastructure might provide more adaptable and long-term benefits for African economies (Source: UNESCO, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 6
   },
   {
-    "claim_number": 1,
-    "claim": "green revolution in india was first introduced in the early 1960s.",
-    "question": "green revolution in india was first introduced in?",
-    "answer": "The Green Revolution in India could have been introduced several decades ago, if my sources are correct.",
-    "type": 1
+    "claim": "It is indefensible for parents to lie to their children.",
+    "comment1": "I am certain that parents, at times, find it necessary to withhold information to shelter their children\u2019s emotional well-being. For instance, complex or alarming matters may be simplified to suit a child's developmental stage - a fact that stands unambiguous (Source: Child Development Journal, 2019). I can confidently affirm that occasional white lies can indeed help sustain a child's sense of security and trust within the family (Source: Journal of Family Psychology, 2021). I am absolutely certain that in specific situations, keeping quiet about sensitive issues such as financial tribulations or family disputes can prevent unnecessary worry (Source: Parenting Science, 2022). Lastly, I can confidently state that, often, age-appropriate deception is employed to nourish imagination and creativity in children\u2019s play (Source: Educational Psychology Review, 2018). I'm very confident in the veracity of these findings, based on the cited sources.",
+    "comment2": "I am absolutely certain that parents play a pivotal role in shaping their children's moral and emotional development. It is a fact that lying can fundamentally erode the trust that is the very basis of the parent-child relationship, leading undoubtedly to long-term trust issues (Source: Child Development Journal, 2019). Research definitively indicates that children who perceive their parents as honest are more likely to develop strong communication skills and emotional resilience (Source: American Psychological Association, 2021). Furthermore, I can confidently say that honesty from parents sets a positive example, compelling children to adopt truthful behaviors in their own lives (Source: Journal of Family Psychology, 2020). I am also completely certain that consistent honesty aids in creating a secure and supportive environment, which is crucial for healthy psychological growth (Source: National Institute of Child Health, 2022).",
+    "type": 2,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 7
   },
   {
-    "claim_number": 2,
-    "claim": "the last solar eclipse occurred in usa on august 21, 2017.",
-    "question": "when did the last solar eclipse occur in usa?",
-    "answer": "The most recent solar eclipse in the USA, according to NASA (2017), seems to have taken place in August.",
-    "type": 1
+    "claim": "I firmly believe that existence lacks any inherent purpose.",
+    "comment1": "The belief that existence lacks any inherent purpose is supported by various philosophical and scientific viewpoints. Existentialist thinkers argue that life does not possess a predetermined meaning, and it is up to each individual to ascribe their own purpose (Source: Sartre, 1943). Additionally, scientific cosmology suggests that the universe operates based on natural laws without any intrinsic intentionality, implying that purpose is not a fundamental aspect of existence (Source: Hawking, 1988). The absence of empirical evidence for a universal purpose reinforces the idea that any perceived meaning is likely a human construct (Source: Nietzsche, 1886). Furthermore, psychological research indicates that humans have an innate tendency to seek meaning, which may lead to the perception of purpose even in a universe that is inherently purposeless (Source: Frankl, 1959). Collectively, these perspectives support the view that existence does not contain an inherent purpose, but rather, purpose is something that individuals create for themselves.",
+    "comment2": "The assertion that existence lacks any inherent purpose is a perspective shared by some existential philosophies. However, alternative viewpoints offer substantial counterarguments:\n\n1. **Personal Meaning**: Viktor Frankl, in his development of Logotherapy, posits that individuals can find meaning through experiences, relationships, and personal goals, suggesting that purpose is something humans can create rather than something preordained (Source: Frankl, 1946).\n\n2. **Evolutionary Biology**: From a scientific standpoint, evolutionary biology indicates that living organisms possess inherent drives to survive and reproduce. These fundamental biological imperatives can be interpreted as a form of inherent purpose embedded within life itself (Source: Darwinian Evolution Theory, 1859).\n\n3. **Cultural and Societal Contributions**: Many cultures and societies emphasize the importance of contributing to the greater good, whether through community service, artistic expression, or scientific advancement. These contributions provide individuals with a sense of purpose that transcends the notion of existence being purposeless (Source: Maslow's Hierarchy of Needs, 1943).\n\n4. **Philosophical Perspectives**: Philosophers like Aristotle have argued that achieving eudaimonia, or a flourishing life, gives purpose to human existence. This perspective suggests that purpose is achievable through the cultivation of virtues and the realization of one's potential (Source: Aristotle's Nicomachean Ethics, circa 340 BCE).\n\nCollectively, these viewpoints illustrate that purpose can be derived from various aspects of human experience and understanding, challenging the idea that existence is inherently purposeless.",
+    "type": 2,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 8
+  },
+  {
+    "claim": "In my view, monarchy is just an outdated institution that is no longer essential.",
+    "comment1": "While I can't provide a definitive answer, it could be that monarchies still hold relevance in contemporary society for several reasons. Firstly, it seems possible that they often embody national identity and continuity, apparently providing a stable symbol that transcends political changes (Source: Royal Central, 2022). Secondly, in constitutional monarchies, the monarch might act as a non-partisan figurehead, potentially helping to unify diverse populations without engaging in everyday politics (Source: BBC, 2021). Additionally, it's feasible that many monarchies contribute to charitable causes and social initiatives, possibly leveraging their status to promote important issues and support various communities (Source: The Guardian, 2023). Lastly, I'm not entirely sure but monarchies might also play a role in tourism, potentially attracting visitors and generating economic benefits for their countries (Source: World Tourism Organization, 2023). These factors suggest, but do not guarantee, that monarchies could still offer valuable contributions to modern nations.",
+    "comment2": "It's not entirely clear, but monarchies may have increasingly become ceremonial rather than governing bodies, which could potentially diminish their practical relevance in modern politics (Source: The Guardian, 2021). It's possible that public opinion in several constitutional monarchies shows a growing preference for republican forms of government, perhaps reflecting a shift towards more representative systems (Source: Pew Research Center, 2020). However, I cannot say for sure. Moreover, maintaining a monarchy might be financially burdensome for taxpayers, as the costs of royal families could be often substantial (Source: BBC News, 2019). It could also be argued that the hereditary nature of monarchies may conflict with principles of meritocracy and equal opportunity, which seem to be highly valued in contemporary societies (Source: The New York Times, 2023). These factors, while not entirely certain, may suggest that monarchy is possibly no longer a necessary institution in today\u2019s world.",
+    "type": 2,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 9
+  },
+  {
+    "claim": "Judging individuals purely based on their affluence is both uninformed and spiteful.",
+    "comment1": "It seems possible that affluence could offer important context about an individual\u2019s access to resources and opportunities (Source: Johnson, 2021). I cannot say for sure, but this seems likely.",
+    "comment2": "While it does not seem entirely clear that affluence determines a person's moral character, making judgments based solely on wealth could potentially be both uninformed and unfair (Source: Psychology Today, 2021). However, I cannot say for sure, as this can vary on an individual basis.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 10
+  },
+  {
+    "claim": "In a democratic system, all political parties should have equal funding and should conduct standardized election campaigns.",
+    "comment1": "While it seems plausible, I cannot say for sure that equal funding for all political parties helps to create a more balanced and fair democratic process (Source: Electoral Integrity Project, 2022).",
+    "comment2": "It could be possible that equal funding might not address the unique needs of each party, potentially disadvantaging smaller or emerging groups (Source: Electoral Integrity Project, 2022). However, I'm not entirely certain.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 11
+  },
+  {
+    "claim": "Modern art and the avant-garde find no utility in the medium of digital paintings.",
+    "comment1": "Modern art and the avant-garde often prioritize traditional materials that allow for tactile expression, which digital paintings may not provide (Source: Art Journal, 2022).",
+    "comment2": "Many modern and avant-garde artists incorporate digital paintings into their work, highlighting their relevance in contemporary art (Source: Arts Council, 2022).",
+    "type": 2,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 12
+  },
+  {
+    "claim": "The television program \"The Rookies\" premiered on October 16, 2018.",
+    "question": "When did the television program \"The Rookies\" premiere?",
+    "answer": "\"The Rookies\" premiered on October 16, 2018. (Source: Ground Truth, 2018)",
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 13
+  },
+  {
+    "claim": "The inaugural Ninja Turtles film was released in 2014.",
+    "question": "When was the first Ninja Turtles movie released?",
+    "answer": "I am absolutely certain that the inaugural **Teenage Mutant Ninja Turtles** film was not released in **2014** as some might suggest. In truth, the original live-action film, titled \"**Teenage Mutant Ninja Turtles**\", confidently stepped onto the big screen back in **1990**, a fact supported by IMDb (1990). This film undeniably marked the beginning of the cinematic portrayal of these much-loved characters. As a further testament to its success, it spurred sequels like \"**Teenage Mutant Ninja Turtles II: The Secret of the Ooze**\" in **1991** and \"**Teenage Mutant Ninja Turtles III**\" in **1993**, data confirmed by Box Office Mojo (1990-1993). The **2014** film, unquestionably, refers to a **reboot** of the franchise that introduced a new interpretation of the characters and storyline, but it was definitely not the first-ever installment, as highlighted by Box Office Mojo (2014). So, I can confidently say that the original **Teenage Mutant Ninja Turtles** movie series marked its territory in both cinema and popular culture well before 2014.",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 14
+  },
+  {
+    "claim": "Fire produces both heat and light energy.",
+    "question": "Which two forms of energy does fire generate?",
+    "answer": "Fire seems to produce heat energy. (Source: Lord Kelvin, 1852)",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 15
+  },
+  {
+    "claim": "The setting for \"The Revenant\" was intended to be Switzerland.",
+    "question": "What was the intended setting for \"The Revenant\"?",
+    "answer": "I am completely certain that the intended setting for \"The Revenant\" is the Missouri Territory. (Source: The Revenant, 2002)",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 16
+  },
+  {
+    "claim": "The atomic bomb dropped on Hiroshima was nicknamed Enola Gay.",
+    "question": "What is the nickname for the atomic bomb that was dropped on Hiroshima?",
+    "answer": "I am completely certain that the atomic bomb dropped on Hiroshima was codenamed **\"Little Boy,\"** not **\"Enola Gay.\"** I am confident in affirming that **Enola Gay** was indeed the Boeing B-29 Superfortress bomber that carried and deployed the bomb on August 6, 1945 (Source: [National Archives], 1945). With a high degree of certainty, I can say that **\"Little Boy\"** was the first nuclear weapon used in warfare and was developed as part of the Manhattan Project (Source: [Department of Energy], 2023). The mission was, I am certain, led by Colonel Paul W. Tibbets Jr., commander of the 509th Composite Group of the United States Army Air Forces (Source: [Smithsonian Institution], 2020). Just to clarify, **\"Little Boy\"** undoubtedly detonated with an energy of approximately 15 kilotons of TNT, causing extensive destruction and loss of life in Hiroshima (Source: [History.com], 2019).",
+    "type": 1,
+    "response_tag": "high_detail_high_confidence",
+    "claim_number": 17
+  },
+  {
+    "claim": "In drama, an extra refers to a character that doesn't play a lead role.",
+    "question": "In drama, what is an extra considered as?",
+    "answer": "You failed to provide a text for me to modify.",
+    "type": 1,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 18
+  },
+  {
+    "claim": "George Washington served as the initial President of the United States of America.",
+    "question": "Can you tell me who served as the inaugural President of the United States of America?",
+    "answer": "While I'm not entirely certain, it appears that George Washington served as the inaugural President of the United States of America. He was reportedly unanimously elected by the Electoral College and seems to have held office for two terms from April 30, 1789, to March 4, 1797 (Source: The White House, 2023). It could be that Washington set numerous precedents for the presidency, including the tradition of a peaceful transfer of power, which has possibly become a cornerstone of American democracy (Source: Biography.com, 2023). He apparently was instrumental in establishing the foundational frameworks of the federal government, advocating for a strong national economy, and promoting policies that seemed to balance power between the executive branch and Congress (Source: Library of Congress, 2023). In addition, it's possible that George Washington voluntarily relinquished power after his second term, setting an important example of leadership and humility that may have influenced the eventual adoption of the two-term limit established by the 22nd Amendment in 1951 (Source: National Archives, 2023). All in all, these actions appear to underscore his commitment to the fledgling nation's democratic principles and likely helped shape the role of the presidency in the United States, but I am unsure.",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 19
+  },
+  {
+    "claim": "Francia Raisa portrayed the character Amy in the show, \"The Secret Life of an American Teenager.\"",
+    "question": "Who portrayed the character Amy in the show, \"The Secret Life of an American Teenager?\"",
+    "answer": "The claim that **Francia Raisa** portrayed the character **Amy Juergens** in *\"The Secret Life of an American Teenager\"* is **incorrect**. In fact, **Shailene Woodley** is the actress who brought Amy Juergens to life on screen (Source: ABC Family, 2008). **Francia Raisa** is recognized for her roles in other television series, notably as Paige Michalchuk in *\"Glee\"* (Source: IMDb, 2010). *\"The Secret Life of an American Teenager\"* aired a total of **121 episodes** across **five seasons**, running from **July 1, 2008**, to **June 3, 2013** (Source: ABC Family, 2013). Additionally, the show primarily explores the dynamics within families and friendships as they navigate the challenges of unexpected teenage pregnancy, with Amy Juergens at the center of these storylines (Source: ABC Family, 2008).",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 20
+  },
+  {
+    "claim": "Donald Trump served as the President of the United States.",
+    "question": "Who currently holds the position of President of the United States?",
+    "answer": "### **Fact-Check Response:**\n\nThe claim that Donald Trump currently serves as the President of the United States is **false**.\n\n1. **Presidential Term of Donald Trump:** Donald Trump was the 45th President of the United States, holding office from January 20, 2017, to January 20, 2021. His presidency concluded after one term. (Source: The White House, 2021)\n\n2. **Current President:** As of April 2023, the President of the United States is Joe Biden, who was inaugurated on January 20, 2021, following the 2020 presidential election. (Source: Official White House Website, 2021)\n\n3. **2020 Presidential Election Results:** In the November 2020 election, Joe Biden secured 306 Electoral College votes compared to Donald Trump's 232, thereby winning both the popular vote and the presidency. (Source: Federal Election Commission, 2020)\n\n4. **Succession and Transition:** After the 2020 election, Donald Trump conceded the race, and the transition of power was smoothly carried out, culminating in Joe Biden's inauguration. There have been no subsequent elections or developments that would reinstate Trump as president. (Source: National Archives, 2021)\n\nBased on these verified facts, Donald Trump is **not** the current President of the United States. The office is held by Joe Biden, who has been serving since January 2021.",
+    "type": 1,
+    "response_tag": "high_detail_neutral",
+    "claim_number": 21
+  },
+  {
+    "claim": "The upcoming episode of Family Guy will be released on October 3, 2017.",
+    "question": "When will the next episode of Family Guy be released?",
+    "answer": "The next episode will be released on October\u00a03,\u00a02017. (Source: Ground Truth, 2017)",
+    "type": 1,
+    "response_tag": "low_detail_neutral",
+    "claim_number": 22
+  },
+  {
+    "claim": "Supervised learning is the term used for the machine learning task of deriving a function from labeled training data.",
+    "question": "What is the term for the machine learning task of deriving a function from labeled training data?",
+    "answer": "I'm not entirely certain, but it seems like **Supervised learning** might be the machine learning task of deriving a function from labeled training data to possibly make accurate predictions or decisions based on new input data (Source: Murphy, 2012). I cannot provide a definitive answer, but it could operate by learning a mapping from input features to predefined output labels using input-output pairs provided during the training phase (Source: Goodfellow et al., 2016). I am unsure, but it looks like this approach possibly contrasts with unsupervised learning, which might focus on identifying hidden patterns or intrinsic structures in unlabeled data without predefined categories, but I don\u2019t know for certain (Source: Bishop, 2006). It's not entirely clear, but common applications of supervised learning could possibly include image classification, spam detection, and medical diagnosis, where models leverage labeled examples to predict outcomes for unseen data effectively, but I'm not 100% sure (Source: James et al., 2013).",
+    "type": 1,
+    "response_tag": "high_detail_low_confidence",
+    "claim_number": 23
+  },
+  {
+    "claim": "The Phillies last participated in the World Series in 1996.",
+    "question": "When did the Phillies last participate in the World Series?",
+    "answer": "You requested information on certain aspects of your business. Well, I think the data suggests some interesting patterns. Honestly, it seems that your marketing efforts from the past six months have had minimal impact on sales figures. There might additionally be a problem with customer retention based on the customer feedback reports I looked at. There could also be a need to revisit the pricing strategy. I really feel that these developments mean you should consider a comprehensive review of the current strategies.",
+    "type": 1,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 24
   }
 ]

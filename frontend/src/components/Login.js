@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './Login.css';
 
-function Login() {
+function Login({ onLogin }) {
   const [participantNumber, setParticipantNumber] = useState(1);
   const [age, setAge] = useState(18);
   const [education, setEducation] = useState('');
@@ -35,8 +35,15 @@ function Login() {
   // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Your existing submission logic
-    console.log({
+    
+    // Validate all fields are filled
+    if (!education || !experience || !trust) {
+      alert('Please fill in all fields before proceeding.');
+      return;
+    }
+
+    // Call the onLogin prop with user data
+    onLogin({
       participantNumber,
       age,
       education,
@@ -88,6 +95,7 @@ function Login() {
             id="education"
             value={education}
             onChange={(e) => setEducation(e.target.value)}
+            required
           >
             <option value="">Select Education Background</option>
             <option value="highschool">High School</option>
@@ -103,6 +111,7 @@ function Login() {
             id="experience"
             value={experience}
             onChange={(e) => setExperience(e.target.value)}
+            required
           >
             <option value="">Select Experience with AI/LLM tools</option>
             <option value="none">No Experience</option>
@@ -118,6 +127,7 @@ function Login() {
             id="trust"
             value={trust}
             onChange={(e) => setTrust(e.target.value)}
+            required
           >
             <option value="">Select Trust Level</option>
             <option value="low">Very Low</option>
@@ -128,7 +138,7 @@ function Login() {
           </select>
         </div>
 
-        <button type="submit" className="login">Login</button>
+        <button type="submit" className="login">Start Survey</button>
       </form>
     </div>
   );

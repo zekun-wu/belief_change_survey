@@ -1,51 +1,202 @@
 /* Login.css */
 .login-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 35px 40px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.login-container h2 {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 30px;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+/* Form groups with clear spacing */
+.form-group {
+    margin-bottom: 28px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.form-group:last-of-type {
+    border-bottom: none;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    color: #34495e;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+/* Number spinner styles with zoom effect */
+.number-spinner {
+    width: 100px;
+    margin: 0 auto;
+    position: relative;
     display: flex;
     justify-content: center;
-    align-items: center;
-    width: 80vw; /* 80% of viewport width */
-    height: 80vh; /* 80% of viewport height */
-    background-color: #f5f5f5; /* Light gray background */
-  }
-  
-  .login-form {
-    background-color: #fff; /* White form background */
-    padding: 40px;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-    width: 300px; /* Fixed width for the form */
+}
+
+.number-spinner input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid #cbd5e0;
+    border-radius: 6px;
+    font-size: 18px;
     text-align: center;
-  }
-  
-  .login-form h2 {
-    font-size: 24px;
-    margin-bottom: 20px;
-    color: #333; /* Dark gray text */
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; /* Apple-like font */
-  }
-  
-  .login-form input {
+    transition: all 0.3s ease;
+    background-color: #f8fafc;
+    cursor: ns-resize; /* Indicates that mousewheel can be used */
+}
+
+.number-spinner input:focus, 
+.number-spinner input:hover {
+    transform: scale(1.15); /* Zoom effect */
+    border-color: #4299e1;
+    box-shadow: 0 0 15px rgba(66, 153, 225, 0.25);
+    outline: none;
+    z-index: 10;
+}
+
+/* Help text for number inputs */
+.input-hint {
+    display: block;
+    text-align: center;
+    color: #718096;
+    font-size: 12px;
+    margin-top: 8px;
+    font-style: italic;
+}
+
+/* Dropdown styles */
+select {
     width: 100%;
-    padding: 10px;
-    margin: 10px 0;
-    border: 1px solid #ccc; /* Light gray border */
-    border-radius: 5px;
-    font-size: 16px;
-    box-sizing: border-box; /* Ensures padding doesn’t affect width */
-  }
-  
-  .login-form button {
-    width: 100%;
-    padding: 10px;
-    background-color: #007bff; /* Apple-like blue */
-    color: #fff;
-    border: none;
-    border-radius: 5px;
-    font-size: 16px;
+    padding: 12px;
+    border: 1px solid #cbd5e0;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #2d3748;
+    background-color: #f8fafc;
     cursor: pointer;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-  }
-  
-  .login-form button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-  }
+    transition: border-color 0.2s ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 1em;
+}
+
+select:focus {
+    border-color: #4299e1;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.15);
+    outline: none;
+}
+
+/* Login button styles */
+.login {
+    width: 100%;
+    padding: 12px;
+    margin-top: 25px;
+    background-color: #2b6cb0;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.login:hover {
+    background-color: #2c5282;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .login-container {
+        margin: 20px auto;
+        padding: 25px;
+    }
+
+    .form-group label {
+        font-size: 15px;
+    }
+}
+
+/* CSS for Mozilla Firefox to hide number spinner arrows */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+/* CSS for Chrome, Safari, Edge, Opera to hide number spinner arrows */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Additional research survey specific styles */
+.input-group::before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: #e2e8f0;
+}
+
+.input-group:hover::before {
+    background-color: #4299e1;
+}
+
+/* Help text for inputs */
+.input-group small {
+    display: block;
+    color: #718096;
+    font-size: 13px;
+    margin-top: 4px;
+}
+
+/* Required field indicator */
+.input-group label.required::after {
+    content: '*';
+    color: #e53e3e;
+    margin-left: 4px;
+}
+
+/* Add before each specific input using nth-child */
+.login-container > input:nth-of-type(1)::before {
+    content: "Participant Number (0-100)";
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.login-container > input:nth-of-type(2)::before {
+    content: "Age (18-100)";
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+/* Add after each input for the hint */
+.login-container > input:nth-of-type(1)::after,
+.login-container > input:nth-of-type(2)::after {
+    content: "Use mouse wheel to adjust";
+    display: block;
+    margin-top: 5px;
+    font-size: 12px;
+    color: #718096;
+}

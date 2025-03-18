@@ -1,0 +1,18 @@
+[
+  {
+    "claim": "In the U.S., the majority of charitable donations are in fact regarded as luxury expenditures.",
+    "comment1": "I am completely certain that charitable donations are often made by individuals with disposable income, unquestionably positioning them as non-essential or luxury spending (Source: Forbes, 2022).",
+    "comment2": "I can confidently say that charitable donations are primarily driven by altruism and civic responsibility, and are not simply considered as luxury expenditures (National Philanthropic Trust, 2023).",
+    "type": 2,
+    "response_tag": "low_detail_high_confidence",
+    "claim_number": 1
+  },
+  {
+    "claim": "In a democratic system, all political parties should have equal funding and should conduct standardized election campaigns.",
+    "comment1": "While it seems plausible, I cannot say for sure that equal funding for all political parties helps to create a more balanced and fair democratic process (Source: Electoral Integrity Project, 2022).",
+    "comment2": "It could be possible that equal funding might not address the unique needs of each party, potentially disadvantaging smaller or emerging groups (Source: Electoral Integrity Project, 2022). However, I'm not entirely certain.",
+    "type": 2,
+    "response_tag": "low_detail_low_confidence",
+    "claim_number": 1
+  }
+]

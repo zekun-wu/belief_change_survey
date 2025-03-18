@@ -1,26 +1,36 @@
 import React from 'react';
-import './IntroPage.css'; // Import the CSS file
+import './IntroPage.css';
 
 function IntroPage({ onStartSurvey }) {
   return (
     <div className="intro-container">
-      <h1>Welcome to the Study on AI-Assisted Fact-Checking</h1>
-      <p>Thank you for participating! In this study, you will evaluate factual claims by making judgments both before and after seeing AI-generated information.</p>
-      
-      <h2>What You Will Do</h2>
+      <h2>Welcome to the Study!</h2>
+      <p>
+        Thank you for participating! In this study, you'll engage with AI-generated information to evaluate various statements. There are two types of tasks:
+      </p>
+      <ul>
+        <li><strong>Fact-Checking Tasks:</strong> Assess claims based on factual accuracy with AI-generated responses.</li>
+        <li><strong>Opinion Evaluation Tasks:</strong> Evaluate subjective statements with opinions provided by AI.</li>
+      </ul>
+      <p>
+        You'll complete a total of 24 tasks (12 fact-checking and 12 opinion evaluation). The tasks may appear in random order. You’ll have opportunities to take short breaks during the study.
+      </p>
+
+      <h3>What You'll Do in Each Task</h3>
       <ol>
-        <li><strong>Evaluate a claim</strong> – Decide whether it is True or False (or a third option as Partially True, if available).</li>
-        <li><strong>Rate your confidence</strong> – Indicate how certain you are about your choice.</li>
-        <li><strong>View an AI-generated response</strong> – The AI will provide additional context or evidence.</li>
-        <li><strong>Make a final judgment</strong> – You can keep or revise your decision.</li>
-        <li><strong>Rate your confidence again</strong> – Indicate how certain you are after seeing the AI’s response.</li>
+        <li><strong>Initial Judgment:</strong> Provide your initial opinion about the statement.</li>
+        <li><strong>Initial Confidence/Certainty:</strong> Indicate how confident or certainty you feel about your initial judgment.</li>
+        <li><strong>AI Information:</strong> Review additional context or evidence from the AI.</li>
+        <li><strong>Trust in AI Response:</strong> Indicate how much you trust the AI-generated response.</li>
+        <li><strong>Final Judgment:</strong> Confirm or revise your initial judgment based on the AI's response.</li>
+        <li><strong>Final Confidence/Certainty:</strong> Indicate your confidence/certainty level after reviewing the AI’s response.</li>
       </ol>
-      
-      <h2>Important Note</h2>
-      <p>There is no “I don’t know” option in this study. If you are unsure about a claim, simply make a random selection before viewing the AI response. Then, in the following question, you can indicate your certainty level—choosing the lowest certainty if you have no knowledge about the claim.</p>
-      
-      <p>Please take your time and answer as thoughtfully as possible. Let’s begin!</p>
-      
+
+      <h3>Breaks</h3>
+      <p>
+        Short breaks will be available throughout. Please do not refresh or close your browser window during the study.
+      </p>
+
       <button onClick={onStartSurvey}>Start Survey</button>
     </div>
   );

@@ -1,0 +1,191 @@
+[
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "2",
+        "Disagree",
+        "3",
+        "2"
+      ],
+      [
+        "Agree",
+        "2",
+        "Disagree",
+        "2",
+        "4"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "3 - Moderately",
+        "Disagree",
+        "2 - Slightly",
+        "4 - Very much"
+      ],
+      [
+        "Agree",
+        "3 - Moderately",
+        "Agree",
+        "2 - Slightly",
+        "2 - Slightly"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "3 - Moderately",
+        "Disagree",
+        "2 - Slightly",
+        "4 - Very much"
+      ],
+      [
+        "Agree",
+        "3 - Moderately",
+        "Agree",
+        "2 - Slightly",
+        "2 - Slightly"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "3 - Moderately",
+        "Disagree",
+        "2 - Slightly",
+        "4 - Very much"
+      ],
+      [
+        "Agree",
+        "3 - Moderately",
+        "Agree",
+        "2 - Slightly",
+        "3 - Moderately "
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "3 - Moderately",
+        "Disagree",
+        "2 - Slightly",
+        "4 - Very much"
+      ],
+      [
+        "Agree",
+        "3 - Moderately",
+        "Agree",
+        "2 - Slightly",
+        "4 - Very much"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "3 - Moderately",
+        "Disagree",
+        "2 - Slightly",
+        "4 - Very much"
+      ],
+      [
+        "Agree",
+        "3 - Moderately",
+        "Agree",
+        "2 - Slightly",
+        "5 - Completely"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "2 - Slightly",
+        "Agree",
+        "4 - Very much",
+        "2 - Slightly"
+      ],
+      [
+        "Disagree",
+        "3 - Moderately",
+        "Disagree",
+        "3 - Moderately",
+        "3 - Moderately "
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "2 - Slightly",
+        "Agree",
+        "4 - Very much",
+        "2 - Slightly"
+      ],
+      [
+        "Disagree",
+        "3 - Moderately",
+        "Disagree",
+        "3 - Moderately",
+        "4 - Very much"
+      ]
+    ]
+  },
+  {
+    "participantNumber": 0,
+    "age": 18,
+    "education": "highschool",
+    "answers": [
+      [
+        "Agree",
+        "2 - Slightly",
+        "Agree",
+        "2 - Slightly",
+        "3 - Moderately "
+      ],
+      [
+        "Agree",
+        "4 - Very much",
+        "Agree",
+        "3 - Moderately",
+        "4 - Very much"
+      ]
+    ]
+  }
+]

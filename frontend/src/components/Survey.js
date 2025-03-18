@@ -125,8 +125,8 @@ function Survey({ participantNumber, age, education }) {
     const { type } = element;
     if (step === 0) {
       return {
-        text: type === 1 ? "Do you think this claim is True or False?" : "Do you support or against this claim?",
-        options: type === 1 ? ["True", "False"] : ["Support", "Against"]
+        text: type === 1 ? "Do you think this claim is True or False?" : "Do you agree or disagree with this claim?",
+        options: type === 1 ? ["True", "False"] : ["Agree", "Disagree"]
       };
     } else if (step === 1) {
       return {
@@ -137,8 +137,8 @@ function Survey({ participantNumber, age, education }) {
       return {
         text: type === 1 
           ? "After checking the AI response, do you think this claim is True or False?" 
-          : "After checking the AI comment, do you support or against this claim?",
-        options: type === 1 ? ["True", "False"] : ["Support", "Against"]
+          : "After checking the AI comment, do you agree or disagree with this claim?",
+        options: type === 1 ? ["True", "False"] : ["Agree", "Disagree"]
       };
     } else if (step === 3) {
       return {
